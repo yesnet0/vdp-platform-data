@@ -1,0 +1,7 @@
+TBD — licence decision deferred.
+
+Two candidates under consideration:
+- CC0 1.0 Universal (public domain dedication) — matches bounty-targets-data convention for pure data
+- MIT — broader compatibility but less natural for a data-only repo
+
+Pick before first public push.

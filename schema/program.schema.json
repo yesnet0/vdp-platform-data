@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yesnet0/vdp-platform-data/schema/program.schema.json",
+  "title": "Program",
+  "description": "Placeholder — canonical schema TBD. Will be finalized when the platform-scraper publishing integration is wired.",
+  "type": "object",
+  "properties": {
+    "platform": { "type": "string", "description": "Hosting platform, e.g. hackerone, bugcrowd, intigriti" },
+    "handle": { "type": "string", "description": "Platform-assigned program handle" },
+    "organization": { "type": "string" },
+    "program_url": { "type": "string", "format": "uri" },
+    "policy_url": { "type": "string", "format": "uri" },
+    "bounty": { "type": "boolean", "description": "True if program pays bounties; false for VDP-only" },
+    "contact_urls": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    }
+  },
+  "required": ["platform", "handle", "organization", "program_url", "bounty"]
+}
