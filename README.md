@@ -9,7 +9,7 @@ Inspired by and complementary to [`arkadiyt/bounty-targets-data`](https://github
 
 ## Where the data lives today
 
-Produced by the scraper at [`yesnet0/platform-scraper`](https://github.com/yesnet0/platform-scraper) and published as **workflow artifacts** on a weekly run:
+Produced by the scraper at [`yesnet0/platform-scraper`](https://github.com/yesnet0/platform-scraper) and published as **workflow artifacts** on a nightly run:
 
 > https://github.com/yesnet0/platform-scraper/actions
 
