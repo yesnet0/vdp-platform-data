@@ -1,7 +1,20 @@
-TBD — licence decision deferred.
+Creative Commons CC0 1.0 Universal
 
-Two candidates under consideration:
-- CC0 1.0 Universal (public domain dedication) — matches bounty-targets-data convention for pure data
-- MIT — broader compatibility but less natural for a data-only repo
+To the extent possible under law, Casey Ellis has waived all copyright and
+related or neighboring rights to vdp-platform-data. This work is published
+from: United States.
 
-Pick before first public push.
+For the full legal text, see:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+## Summary
+
+You can copy, modify, distribute, and use this data, even for commercial
+purposes, all without asking permission.
+
+## Notes
+
+- The data in this repository is compiled from publicly accessible pages and
+  endpoints operated by the respective bug bounty / VDP platforms. Use of
+  the underlying programs remains subject to each program's own policy.
+- No warranty is provided. Data is published on a best-effort basis.
