@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-04-29T03:14:16.673Z",
+  "scraped_at": "2026-04-30T03:14:52.030Z",
   "platform": "yeswehack",
-  "total_programs": 71,
+  "total_programs": 70,
   "programs": [
     {
       "id": "yeswehack:harman-international-web-applications",
@@ -16,72 +16,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
-    },
-    {
-      "id": "yeswehack:bookbeat",
-      "platform": "yeswehack",
-      "program_url": "https://yeswehack.com/programs/bookbeat",
-      "organization_name": "BookBeat",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 2000,
-        "currency": "EUR",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
-    },
-    {
-      "id": "yeswehack:bug-bounty-sncf-connect-1",
-      "platform": "yeswehack",
-      "program_url": "https://yeswehack.com/programs/bug-bounty-sncf-connect-1",
-      "organization_name": "Bug Bounty SNCF Connect",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 0,
-        "max": 10000,
-        "currency": "EUR",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
-    },
-    {
-      "id": "yeswehack:datadome-bot-bounty",
-      "platform": "yeswehack",
-      "program_url": "https://yeswehack.com/programs/datadome-bot-bounty",
-      "organization_name": "DataDome Bot Bounty",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 200,
-        "max": 3000,
-        "currency": "EUR",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
-    },
-    {
-      "id": "yeswehack:moneybox-bug-bounty",
-      "platform": "yeswehack",
-      "program_url": "https://yeswehack.com/programs/moneybox-bug-bounty",
-      "organization_name": "Moneybox Bug Bounty",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 2000,
-        "currency": "EUR",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:doctolib-public-bug-bounty-program",
@@ -96,8 +32,72 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
+    },
+    {
+      "id": "yeswehack:bookbeat",
+      "platform": "yeswehack",
+      "program_url": "https://yeswehack.com/programs/bookbeat",
+      "organization_name": "BookBeat",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 2000,
+        "currency": "EUR",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
+    },
+    {
+      "id": "yeswehack:bug-bounty-sncf-connect-1",
+      "platform": "yeswehack",
+      "program_url": "https://yeswehack.com/programs/bug-bounty-sncf-connect-1",
+      "organization_name": "Bug Bounty SNCF Connect",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 0,
+        "max": 10000,
+        "currency": "EUR",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
+    },
+    {
+      "id": "yeswehack:datadome-bot-bounty",
+      "platform": "yeswehack",
+      "program_url": "https://yeswehack.com/programs/datadome-bot-bounty",
+      "organization_name": "DataDome Bot Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 200,
+        "max": 3000,
+        "currency": "EUR",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
+    },
+    {
+      "id": "yeswehack:moneybox-bug-bounty",
+      "platform": "yeswehack",
+      "program_url": "https://yeswehack.com/programs/moneybox-bug-bounty",
+      "organization_name": "Moneybox Bug Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 2000,
+        "currency": "EUR",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:contentsquare-bug-bounty-program",
@@ -112,8 +112,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:telenor-sweden-public-bug-bounty-program",
@@ -128,8 +128,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:teamviewer-bounty-program",
@@ -144,8 +144,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:mon-espace-sante-mes",
@@ -160,8 +160,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:dossier-medical-partage-program",
@@ -176,8 +176,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:komoju-public-bug-bounty-program",
@@ -192,8 +192,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:dovecot",
@@ -208,8 +208,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:goto-financial-public-bounty-program",
@@ -224,8 +224,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:gojek-bug-bounty-program",
@@ -240,8 +240,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:dailymotion-public-bug-bounty",
@@ -256,8 +256,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:decathlon",
@@ -272,8 +272,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:vfs-global-bug-bounty-program",
@@ -288,8 +288,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:coindcx-bug-bounty-program",
@@ -304,8 +304,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:okto-bug-bounty-program",
@@ -320,8 +320,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:bitoasis-bug-bounty-program",
@@ -336,8 +336,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:pine-labs-bug-bounty-program",
@@ -352,8 +352,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:thuringer-aufbaubank-bug-bounty-program",
@@ -368,8 +368,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:dojo",
@@ -384,8 +384,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:fdj-united-online-betting-gaming-bug-bounty-program",
@@ -400,8 +400,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:datadome-bug-bounty",
@@ -416,8 +416,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:proconnect-identite",
@@ -432,8 +432,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:sante-publique-france-bugbounty-public-program",
@@ -448,8 +448,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:swiss-post-evoting",
@@ -464,8 +464,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:louis-vuitton-malletier-public-bug-bounty-program",
@@ -480,8 +480,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:harman-international-public-bug-bounty",
@@ -496,8 +496,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:memento-bug-bounty-program",
@@ -512,8 +512,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:swiss-post",
@@ -528,8 +528,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:cybermalveillance-gouv-fr-sensibilization-prevention-and-support-in-terms-of-cybersecurity",
@@ -544,8 +544,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:expressvpn-bug-bounty-program",
@@ -560,8 +560,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:digital-flanders-vulnerability-disclosure-program",
@@ -576,8 +576,8 @@
         "currency": "EUR",
         "offers_bounties": false
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:xelians-blackbox-program",
@@ -592,24 +592,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
-    },
-    {
-      "id": "yeswehack:grw-trading-fze-bug-bounty-program",
-      "platform": "yeswehack",
-      "program_url": "https://yeswehack.com/programs/grw-trading-fze-bug-bounty-program",
-      "organization_name": "GRW Trading FZE - Open Bug Bounty Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 3000,
-        "currency": "EUR",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:vidaxl-services-open-bug-bounty-program",
@@ -624,8 +608,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:cryptobox-bug-bounty",
@@ -640,8 +624,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:bug-bounty-program-blablacar",
@@ -656,8 +640,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:vincisa-public-program",
@@ -672,8 +656,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:ezviz-bug-bounty-program",
@@ -688,8 +672,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:mediamarktsaturn-bug-bounty-program",
@@ -704,8 +688,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:swapcard",
@@ -720,8 +704,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:paddle-com-public-bug-bounty-program",
@@ -736,8 +720,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
@@ -752,8 +736,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:ovh",
@@ -768,8 +752,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:agora",
@@ -784,8 +768,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:imou-public-bug-bounty-program",
@@ -800,8 +784,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:zecible-public-bug-bounty-program",
@@ -816,8 +800,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:ant-group-security-response-center-bug-bounty-program",
@@ -832,8 +816,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:govtech-vulnerability-disclosure-programme-policy",
@@ -848,8 +832,8 @@
         "currency": "USD",
         "offers_bounties": false
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:otto-de-bug-bounty",
@@ -864,8 +848,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:private-internet-access-bug-bounty-program",
@@ -880,8 +864,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:cyberghost-bug-bounty-program",
@@ -896,8 +880,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:atg-public-bug-bounty-program",
@@ -912,8 +896,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:onedoc-sa-bug-bounty-program",
@@ -928,8 +912,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:outscale",
@@ -944,8 +928,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:maya-public-bug-bounty-program",
@@ -960,8 +944,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:ooredoo-qpsc-bug-bounty-program",
@@ -976,8 +960,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:dana-bug-bounty-program",
@@ -992,8 +976,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:yes-we-hack",
@@ -1008,8 +992,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:tchap-public",
@@ -1024,8 +1008,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:qwant",
@@ -1040,8 +1024,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:sogexia",
@@ -1056,8 +1040,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:powerdns",
@@ -1072,8 +1056,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:withings-public-program",
@@ -1088,8 +1072,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:alasco-gmbh-bug-bounty-program",
@@ -1104,8 +1088,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:tencent-bug-bounty-program",
@@ -1120,8 +1104,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     },
     {
       "id": "yeswehack:salt-mobile-sa-bug-bounty-program",
@@ -1136,8 +1120,8 @@
         "currency": "EUR",
         "offers_bounties": true
       },
-      "last_updated": "2026-04-29T03:14:15.280Z",
-      "discovered_at": "2026-04-29T03:14:15.280Z"
+      "last_updated": "2026-04-30T03:14:50.636Z",
+      "discovered_at": "2026-04-30T03:14:50.636Z"
     }
   ]
 }
