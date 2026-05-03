@@ -1,25 +1,16 @@
 {
-  "scraped_at": "2026-05-02T03:12:35.489Z",
+  "scraped_at": "2026-05-03T03:14:13.151Z",
   "platform": "intigriti",
   "total_programs": 160,
   "programs": [
-    {
-      "id": "intigriti:doccle",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/doccle/doccle/detail",
-      "organization_name": "Doccle Bug Bounty program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
     {
       "id": "intigriti:allekabels",
       "platform": "intigriti",
       "program_url": "https://www.intigriti.com/programs/rpip/allekabels/detail",
       "organization_name": "Allekabels",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:Serv-u",
@@ -27,8 +18,17 @@
       "program_url": "https://www.intigriti.com/programs/solarwinds/Serv-u/detail",
       "organization_name": "SolarWinds Serv-U ",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:doccle",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/doccle/doccle/detail",
+      "organization_name": "Doccle Bug Bounty program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:ubisoftgamesecbbp",
@@ -36,17 +36,8 @@
       "program_url": "https://www.intigriti.com/programs/ubisoft/ubisoftgamesecbbp/detail",
       "organization_name": "Ubisoft Game Security BBP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:springheist2026",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/belgianbankinsurer/springheist2026/detail",
-      "organization_name": "Spring Heist 2026",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:kauflandmarketplacebugbounty",
@@ -54,8 +45,8 @@
       "program_url": "https://www.intigriti.com/programs/kauflandmarketplacegmbh/kauflandmarketplacebugbounty/detail",
       "organization_name": "Kaufland Marketplace Bug Bounty",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:randstadbededicatedbugbountyprogram",
@@ -63,8 +54,17 @@
       "program_url": "https://www.intigriti.com/programs/randstad/randstadbededicatedbugbountyprogram/detail",
       "organization_name": "Randstad.be Dedicated Bug Bounty Program",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:springheist2026",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/belgianbankinsurer/springheist2026/detail",
+      "organization_name": "Spring Heist 2026",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:newpharma",
@@ -72,89 +72,8 @@
       "program_url": "https://www.intigriti.com/programs/colruyt/newpharma/detail",
       "organization_name": "Newpharma",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:coca-cola",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
-      "organization_name": "The Coca-Cola Company Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:iciparisxl",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aswatson/iciparisxl/detail",
-      "organization_name": "ICI PARIS XL",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:exactvulnerabilitydisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail",
-      "organization_name": "Exact Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:visma",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
-      "organization_name": "Visma",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:capitalcom",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
-      "organization_name": "Capital.com",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:superdrug",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aswatson/superdrug/detail",
-      "organization_name": "Superdrug",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:digitalocean",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-      "organization_name": "DigitalOcean",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:intigriti",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/intigriti/intigriti/detail",
-      "organization_name": "intigriti",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:kiwavdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
-      "organization_name": "Kiwa Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:kruidvat",
@@ -162,35 +81,8 @@
       "program_url": "https://www.intigriti.com/programs/aswatson/kruidvat/detail",
       "organization_name": "Kruidvat",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:rivianbugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
-      "organization_name": "Rivian Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:water-link",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-      "organization_name": "Water-Link",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:VismaResponsibleDisclosure",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
-      "organization_name": "Visma Responsible Disclosure",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:grafanaossbbp",
@@ -198,44 +90,8 @@
       "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanaossbbp/detail",
       "organization_name": "Grafana Labs",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:watsons",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aswatson/watsons/detail",
-      "organization_name": "Watsons",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:marionnaud",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aswatson/marionnaud/detail",
-      "organization_name": "Marionnaud",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:theperfumeshop",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aswatson/theperfumeshop/detail",
-      "organization_name": "The Perfume Shop",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:dstnybugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "organization_name": "Dstny",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:upholdcom",
@@ -243,8 +99,125 @@
       "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
       "organization_name": "Uphold",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:watsons",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aswatson/watsons/detail",
+      "organization_name": "Watsons",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:theperfumeshop",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aswatson/theperfumeshop/detail",
+      "organization_name": "The Perfume Shop",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:visma",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
+      "organization_name": "Visma",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:capitalcom",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+      "organization_name": "Capital.com",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:iciparisxl",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aswatson/iciparisxl/detail",
+      "organization_name": "ICI PARIS XL",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:rivianbugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
+      "organization_name": "Rivian Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:water-link",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+      "organization_name": "Water-Link",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:intigriti",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/intigriti/intigriti/detail",
+      "organization_name": "intigriti",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:marionnaud",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aswatson/marionnaud/detail",
+      "organization_name": "Marionnaud",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:exactvulnerabilitydisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail",
+      "organization_name": "Exact Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:coca-cola",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
+      "organization_name": "The Coca-Cola Company Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:superdrug",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aswatson/superdrug/detail",
+      "organization_name": "Superdrug",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:kiwavdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
+      "organization_name": "Kiwa Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:usz-vdp",
@@ -252,143 +225,35 @@
       "program_url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "organization_name": "Universitätsspital Zürich VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
-      "id": "intigriti:privatebankdelen",
+      "id": "intigriti:dstnybugbounty",
       "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "organization_name": "Delen Private Bank",
+      "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+      "organization_name": "Dstny",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
-      "id": "intigriti:devolkskrant",
+      "id": "intigriti:digitalocean",
       "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
-      "organization_name": "De Volkskrant",
+      "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+      "organization_name": "DigitalOcean",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
-      "id": "intigriti:atollsvdp",
+      "id": "intigriti:VismaResponsibleDisclosure",
       "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/atolls/atollsvdp/detail",
-      "organization_name": "Atolls Vulnerability Disclosure Program (VDP)",
+      "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
+      "organization_name": "Visma Responsible Disclosure",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:demorgen",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
-      "organization_name": "De Morgen",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:kuleuvenrdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
-      "organization_name": "KU Leuven Responsible Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:digi-vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/digi/digi-vdp/detail",
-      "organization_name": "DIGI Responsible Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:trouw",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
-      "organization_name": "Trouw",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:vtmgo",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
-      "organization_name": "VTM GO",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:algemeendagblad",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
-      "organization_name": "Algemeen Dagblad",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:sbbglobal",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "organization_name": "SBB - Swiss Federal Railways",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:storebrand-rd",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
-      "organization_name": "Storebrand Responsible Disclosure",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:bmc",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/randstad/bmc/detail",
-      "organization_name": "BMC",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:vrtnv",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/vrtnv/vrtnv/detail",
-      "organization_name": "VRT",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:lansweeper1",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-      "organization_name": "Lansweeper Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:cybersecuritycoalition",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail",
-      "organization_name": "Cyber Security Coalition",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:revolutvdp",
@@ -396,8 +261,134 @@
       "program_url": "https://www.intigriti.com/programs/revolut/revolutvdp/detail",
       "organization_name": "Revolut VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:devolkskrant",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
+      "organization_name": "De Volkskrant",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:atollsvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/atolls/atollsvdp/detail",
+      "organization_name": "Atolls Vulnerability Disclosure Program (VDP)",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:demorgen",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
+      "organization_name": "De Morgen",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:kuleuvenrdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
+      "organization_name": "KU Leuven Responsible Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:digi-vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/digi/digi-vdp/detail",
+      "organization_name": "DIGI Responsible Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:trouw",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
+      "organization_name": "Trouw",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:vtmgo",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
+      "organization_name": "VTM GO",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:algemeendagblad",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
+      "organization_name": "Algemeen Dagblad",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:sbbglobal",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+      "organization_name": "SBB - Swiss Federal Railways",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:bmc",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/randstad/bmc/detail",
+      "organization_name": "BMC",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:vrtnv",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/vrtnv/vrtnv/detail",
+      "organization_name": "VRT",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:storebrand-rd",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
+      "organization_name": "Storebrand Responsible Disclosure",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:lansweeper1",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+      "organization_name": "Lansweeper Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:cybersecuritycoalition",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail",
+      "organization_name": "Cyber Security Coalition",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:libelle",
@@ -405,8 +396,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "organization_name": "Libelle",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:hetlaatstenieuws",
@@ -414,8 +405,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
       "organization_name": "Het Laatste Nieuws",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:cloudways",
@@ -423,8 +414,8 @@
       "program_url": "https://www.intigriti.com/programs/digitalocean/cloudways/detail",
       "organization_name": "Cloudways by DigitalOcean",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:anacondavdp",
@@ -432,8 +423,8 @@
       "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
       "organization_name": "Anaconda Vulnerability Disclosure Program",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:redbull",
@@ -441,8 +432,8 @@
       "program_url": "https://www.intigriti.com/programs/redbull/redbull/detail",
       "organization_name": "Red Bull",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:ing-responsible-disclosure",
@@ -450,8 +441,8 @@
       "program_url": "https://www.intigriti.com/programs/ing/ing-responsible-disclosure/detail",
       "organization_name": "ING Responsible Disclosure",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:voivulnerabilitydisclosureprogram",
@@ -459,8 +450,8 @@
       "program_url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "organization_name": "Voi Vulnerability Disclosure Program",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:toastvdp",
@@ -468,8 +459,8 @@
       "program_url": "https://www.intigriti.com/programs/toast/toastvdp/detail",
       "organization_name": "Toast VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:dpgmedia",
@@ -477,8 +468,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail",
       "organization_name": "DPG Media",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:hetparool",
@@ -486,8 +477,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/hetparool/detail",
       "organization_name": "Het Parool",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:onlineinschrijvingenbetalingstoepassing",
@@ -495,8 +486,8 @@
       "program_url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
       "organization_name": "Online enrollment for students Bug Bounty Program",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:trustedfirmware",
@@ -504,8 +495,8 @@
       "program_url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
       "organization_name": "Trusted Firmware",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:humo",
@@ -513,8 +504,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/humo/detail",
       "organization_name": "Humo",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:uzleuven",
@@ -522,8 +513,8 @@
       "program_url": "https://www.intigriti.com/programs/uz leuven/uzleuven/detail",
       "organization_name": "UZ Leuven",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:tomorrowland",
@@ -531,8 +522,8 @@
       "program_url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
       "organization_name": "Tomorrowland",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:tempo-team",
@@ -540,8 +531,8 @@
       "program_url": "https://www.intigriti.com/programs/randstad/tempo-team/detail",
       "organization_name": "Tempo-Team ",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:portofantwerp",
@@ -549,8 +540,8 @@
       "program_url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
       "organization_name": "Port of Antwerp-Bruges",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:twago",
@@ -558,8 +549,8 @@
       "program_url": "https://www.intigriti.com/programs/randstad/twago/detail",
       "organization_name": "Twago",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:tweakers",
@@ -567,8 +558,8 @@
       "program_url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
       "organization_name": "Tweakers",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:liferay-vdp",
@@ -576,8 +567,8 @@
       "program_url": "https://www.intigriti.com/programs/liferay/liferay-vdp/detail",
       "organization_name": "Liferay VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:nexuzhealth",
@@ -585,8 +576,8 @@
       "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
       "organization_name": "Nexuzhealth",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:randstad",
@@ -594,8 +585,8 @@
       "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
       "organization_name": "Randstad",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:yacht",
@@ -603,8 +594,8 @@
       "program_url": "https://www.intigriti.com/programs/randstad/yacht/detail",
       "organization_name": "Yacht",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:innogames",
@@ -612,8 +603,8 @@
       "program_url": "https://www.intigriti.com/programs/innogames/innogames/detail",
       "organization_name": "InnoGames",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:water-linkvdp",
@@ -621,8 +612,8 @@
       "program_url": "https://www.intigriti.com/programs/waterlink/water-linkvdp/detail",
       "organization_name": "Water-Link VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:speakapresponsibledisclosure",
@@ -630,8 +621,8 @@
       "program_url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
       "organization_name": "Speakap Responsible Disclosure",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:simscale",
@@ -639,8 +630,8 @@
       "program_url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "organization_name": "SimScale",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:fing",
@@ -648,8 +639,8 @@
       "program_url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
       "organization_name": "Fing Bug Bounty Program",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:heretechnologies",
@@ -657,8 +648,8 @@
       "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
       "organization_name": "Here Technologies",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:cmcom",
@@ -666,8 +657,8 @@
       "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
       "organization_name": "CM.com",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:personio",
@@ -675,8 +666,8 @@
       "program_url": "https://www.intigriti.com/programs/personio/personio/detail",
       "organization_name": "Personio",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:mobilevikings",
@@ -684,8 +675,8 @@
       "program_url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
       "organization_name": "Mobile Vikings",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:vlerickbusinessschool",
@@ -693,8 +684,8 @@
       "program_url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "organization_name": "Vlerick Business School",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:hrsgroupvdp",
@@ -702,737 +693,8 @@
       "program_url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
       "organization_name": "HRS Group VDP",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:innovapost",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
-      "organization_name": "Canada Post - Responsible Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nestlévdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/nestlé/nestlévdp/detail",
-      "organization_name": "Nestlé VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:proofvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/proof/proofvdp/detail",
-      "organization_name": "Proof.com VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:aikido",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aikido/aikido/detail",
-      "organization_name": "Aikido Security: Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:pdqcomprivate",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "organization_name": "PDQ bug bounty program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:peoplecert",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
-      "organization_name": "PeopleCert VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:wpengine",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
-      "organization_name": "WP Engine VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:bitvavovdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
-      "organization_name": "Bitvavo VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:ninjakiwigames",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "organization_name": "Ninja Kiwi Games Bug Bounty program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:website",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "organization_name": "Kinepolis Group",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:zabkagroup-vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail",
-      "organization_name": "Zabka Group Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:dhlvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dhlgroup/dhlvdp/detail",
-      "organization_name": "DHL Group Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:ripencc",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-      "organization_name": "RIPE NCC",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:huisvesting",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-      "organization_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:voiscooters",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-      "organization_name": "Voi Scooters",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:dummy",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bpost/dummy/detail",
-      "organization_name": "Bpost",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:wolt",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/wolt/wolt/detail",
-      "organization_name": "Wolt",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:excoscalebugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/exoscale/excoscalebugbounty/detail",
-      "organization_name": "Exoscale Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:ehealthhub&meta-hubvznkul",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/uz leuven/ehealthhub&meta-hubvznkul/detail",
-      "organization_name": "eHealth Hub VZN KUL",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:socialdeal",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
-      "organization_name": "Social Deal",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:arkanenetwork",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "organization_name": "Venly",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:dropbox-vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/dropbox/dropbox-vdp/detail",
-      "organization_name": "Dropbox Vulnerability Disclosure Program ",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:crossborderfines",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
-      "organization_name": "Cross Border Fines",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:rgfbe-vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail",
-      "organization_name": "RGF BE - VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:donorboxvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/donorbox/donorboxvdp/detail",
-      "organization_name": "Donorbox VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:yahoobugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
-      "organization_name": "Yahoo Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:arm",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/arm/arm/detail",
-      "organization_name": "Arm",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:qcvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/quadcode/qcvdp/detail",
-      "organization_name": "QC VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nexuzhealthvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
-      "organization_name": "Nexuzhealth VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:wpenginebugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "organization_name": "WP Engine Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:arboniavdpprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/arbonia/arboniavdpprogram/detail",
-      "organization_name": "Arbonia VDP program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:eurid",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/eurid/eurid/detail",
-      "organization_name": "EURid",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nvidiavdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/nvidia/nvidiavdp/detail",
-      "organization_name": "NVIDIA Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:driessenvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/driessengroep/driessenvdp/detail",
-      "organization_name": "Driessen Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:freepikcompany",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
-      "organization_name": "MAGNIFIC VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:houseofhrvulnerabilitydisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/houseofhr/houseofhrvulnerabilitydisclosureprogram/detail",
-      "organization_name": "House of HR Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:bmwgroup-automotive",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail",
-      "organization_name": "BMW Group Automotive",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:buhlergroupvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail",
-      "organization_name": "Bühler Group VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:signicatresponsibledisclosure",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail",
-      "organization_name": "Signicat Responsible Disclosure",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:wartsila-vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
-      "organization_name": "Wärtsilä Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:axelspringersevulnerabilitydisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
-      "organization_name": "Axel Springer SE Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:responsiblevulnerabilitydisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
-      "organization_name": "Citymesh Responsible Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nmt",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
-      "organization_name": "Axel Springer National Media & Tech",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:monzopublicbugbountyprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-      "organization_name": "Monzo Public Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:qualifiedresponsibledisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/qualified/qualifiedresponsibledisclosureprogram/detail",
-      "organization_name": "Qualified Responsible Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:skodaautoprivatebugbountyprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "organization_name": "Skoda Auto Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:orbiavdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
-      "organization_name": "Orbia Responsible Disclosure",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:allegrobugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-      "organization_name": "Allegro",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:ubisoftvdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
-      "organization_name": "Ubisoft Responsible Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:e-tracker",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bpost/e-tracker/detail",
-      "organization_name": "e-tracker",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:intel",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/intel/intel/detail",
-      "organization_name": "Intel®",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:vdp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/showpad/vdp/detail",
-      "organization_name": "VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:moralisio",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-      "organization_name": "Moralis VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:coveopublicbugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/coveo/coveopublicbugbounty/detail",
-      "organization_name": "Coveo Public Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:coveovulnerabilitydisclosureprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/coveo/coveovulnerabilitydisclosureprogram/detail",
-      "organization_name": "Coveo VDP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:captureourflag",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/intigriti/captureourflag/detail",
-      "organization_name": "Capture Our Flag",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:pornhub-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/pornhub-bbp/detail",
-      "organization_name": "Pornhub Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:brazzers-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/brazzers-bbp/detail",
-      "organization_name": "Brazzers Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:probiller-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/probiller-bbp/detail",
-      "organization_name": "Probiller Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:telenetgroup",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/telenet/telenetgroup/detail",
-      "organization_name": "Telenet - Base - Wyre - Tadaam",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:mydirtyhobby-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/mydirtyhobby-bbp/detail",
-      "organization_name": "MyDirtyHobby Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:trafficjunky-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/trafficjunky-bbp/detail",
-      "organization_name": "TrafficJunky Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nutaku-bbp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aylo/nutaku-bbp/detail",
-      "organization_name": "Nutaku Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:colruytgroupidcheck",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/colruyt/colruytgroupidcheck/detail",
-      "organization_name": "Colruyt Group",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:postibugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
-      "organization_name": "Posti Bug Bounty ",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:webnode",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/combell/webnode/detail",
-      "organization_name": "Webnode",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:altera",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
-      "organization_name": "Altera",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:intergamma",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
-      "organization_name": "Intergamma",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:sqillscorporatewebsite",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "organization_name": "Sqills",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:amd",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/amd/amd/detail",
-      "organization_name": "AMD Product Security Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:liferaydxp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
-      "organization_name": "Liferay DXP",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:datacamp",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "organization_name": "DataCamp",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:nexuzhealthwebpacs",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/uz leuven/nexuzhealthwebpacs/detail",
-      "organization_name": "Nexuzhealth Web PACS",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:truelayer",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "organization_name": "TrueLayer",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:VDP",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/ninealtitudes/VDP/detail",
-      "organization_name": "9altitudes - Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:vinted-bugbountyprogram",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
-      "organization_name": "Vinted - Bug Bounty Program",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:torfs",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
-      "organization_name": "Torfs",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:veriffbugbounty",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "organization_name": "Veriff Bug Bounty",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:bmwgroup",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
-      "organization_name": "BMW Group",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:soundtrackyourbrand",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
-      "organization_name": "Soundtrack Your Brand",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
-    },
-    {
-      "id": "intigriti:aikidoruntime",
-      "platform": "intigriti",
-      "program_url": "https://www.intigriti.com/programs/aikido/aikidoruntime/detail",
-      "organization_name": "Aikido Security: Zen by Aikido ",
-      "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     },
     {
       "id": "intigriti:dropbox",
@@ -1440,8 +702,746 @@
       "program_url": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
       "organization_name": "Dropbox Bug Bounty",
       "contact_urls": [],
-      "last_updated": "2026-05-02T03:12:33.669Z",
-      "discovered_at": "2026-05-02T03:12:33.669Z"
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:innovapost",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
+      "organization_name": "Canada Post - Responsible Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nestlévdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/nestlé/nestlévdp/detail",
+      "organization_name": "Nestlé VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:proofvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/proof/proofvdp/detail",
+      "organization_name": "Proof.com VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:aikido",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aikido/aikido/detail",
+      "organization_name": "Aikido Security: Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:pdqcomprivate",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "organization_name": "PDQ bug bounty program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:peoplecert",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
+      "organization_name": "PeopleCert VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:wpengine",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
+      "organization_name": "WP Engine VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:bitvavovdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
+      "organization_name": "Bitvavo VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:ninjakiwigames",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "organization_name": "Ninja Kiwi Games Bug Bounty program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:website",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "organization_name": "Kinepolis Group",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:zabkagroup-vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail",
+      "organization_name": "Zabka Group Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:dhlvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dhlgroup/dhlvdp/detail",
+      "organization_name": "DHL Group Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:ripencc",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+      "organization_name": "RIPE NCC",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:huisvesting",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+      "organization_name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:voiscooters",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+      "organization_name": "Voi Scooters",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:dummy",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bpost/dummy/detail",
+      "organization_name": "Bpost",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:wolt",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/wolt/wolt/detail",
+      "organization_name": "Wolt",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:excoscalebugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/exoscale/excoscalebugbounty/detail",
+      "organization_name": "Exoscale Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:ehealthhub&meta-hubvznkul",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/uz leuven/ehealthhub&meta-hubvznkul/detail",
+      "organization_name": "eHealth Hub VZN KUL",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:socialdeal",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
+      "organization_name": "Social Deal",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:arkanenetwork",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "organization_name": "Venly",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:dropbox-vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/dropbox/dropbox-vdp/detail",
+      "organization_name": "Dropbox Vulnerability Disclosure Program ",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:crossborderfines",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
+      "organization_name": "Cross Border Fines",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:rgfbe-vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail",
+      "organization_name": "RGF BE - VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:donorboxvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/donorbox/donorboxvdp/detail",
+      "organization_name": "Donorbox VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:yahoobugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
+      "organization_name": "Yahoo Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:arm",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/arm/arm/detail",
+      "organization_name": "Arm",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:qcvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/quadcode/qcvdp/detail",
+      "organization_name": "QC VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nexuzhealthvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
+      "organization_name": "Nexuzhealth VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:wpenginebugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "organization_name": "WP Engine Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:arboniavdpprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/arbonia/arboniavdpprogram/detail",
+      "organization_name": "Arbonia VDP program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:eurid",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/eurid/eurid/detail",
+      "organization_name": "EURid",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nvidiavdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/nvidia/nvidiavdp/detail",
+      "organization_name": "NVIDIA Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:driessenvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/driessengroep/driessenvdp/detail",
+      "organization_name": "Driessen Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:freepikcompany",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
+      "organization_name": "MAGNIFIC VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:houseofhrvulnerabilitydisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/houseofhr/houseofhrvulnerabilitydisclosureprogram/detail",
+      "organization_name": "House of HR Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:bmwgroup-automotive",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail",
+      "organization_name": "BMW Group Automotive",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:buhlergroupvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail",
+      "organization_name": "Bühler Group VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:signicatresponsibledisclosure",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail",
+      "organization_name": "Signicat Responsible Disclosure",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:wartsila-vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
+      "organization_name": "Wärtsilä Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:axelspringersevulnerabilitydisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
+      "organization_name": "Axel Springer SE Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:responsiblevulnerabilitydisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
+      "organization_name": "Citymesh Responsible Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nmt",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+      "organization_name": "Axel Springer National Media & Tech",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:monzopublicbugbountyprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+      "organization_name": "Monzo Public Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:qualifiedresponsibledisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/qualified/qualifiedresponsibledisclosureprogram/detail",
+      "organization_name": "Qualified Responsible Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:skodaautoprivatebugbountyprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "organization_name": "Skoda Auto Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:orbiavdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
+      "organization_name": "Orbia Responsible Disclosure",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:allegrobugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
+      "organization_name": "Allegro",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:ubisoftvdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
+      "organization_name": "Ubisoft Responsible Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:e-tracker",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bpost/e-tracker/detail",
+      "organization_name": "e-tracker",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:vdp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/showpad/vdp/detail",
+      "organization_name": "VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:intel",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/intel/intel/detail",
+      "organization_name": "Intel®",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:moralisio",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
+      "organization_name": "Moralis VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:coveopublicbugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/coveo/coveopublicbugbounty/detail",
+      "organization_name": "Coveo Public Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:coveovulnerabilitydisclosureprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/coveo/coveovulnerabilitydisclosureprogram/detail",
+      "organization_name": "Coveo VDP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:captureourflag",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/intigriti/captureourflag/detail",
+      "organization_name": "Capture Our Flag",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:pornhub-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/pornhub-bbp/detail",
+      "organization_name": "Pornhub Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:postibugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
+      "organization_name": "Posti Bug Bounty ",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:colruytgroupidcheck",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/colruyt/colruytgroupidcheck/detail",
+      "organization_name": "Colruyt Group",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:trafficjunky-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/trafficjunky-bbp/detail",
+      "organization_name": "TrafficJunky Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:brazzers-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/brazzers-bbp/detail",
+      "organization_name": "Brazzers Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nutaku-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/nutaku-bbp/detail",
+      "organization_name": "Nutaku Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:mydirtyhobby-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/mydirtyhobby-bbp/detail",
+      "organization_name": "MyDirtyHobby Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:probiller-bbp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aylo/probiller-bbp/detail",
+      "organization_name": "Probiller Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:telenetgroup",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/telenet/telenetgroup/detail",
+      "organization_name": "Telenet - Base - Wyre - Tadaam",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:webnode",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/combell/webnode/detail",
+      "organization_name": "Webnode",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:intergamma",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
+      "organization_name": "Intergamma",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:altera",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
+      "organization_name": "Altera",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:sqillscorporatewebsite",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "organization_name": "Sqills",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:aikidoruntime",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/aikido/aikidoruntime/detail",
+      "organization_name": "Aikido Security: Zen by Aikido ",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:soundtrackyourbrand",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+      "organization_name": "Soundtrack Your Brand",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:torfs",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+      "organization_name": "Torfs",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:liferaydxp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
+      "organization_name": "Liferay DXP",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:amd",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/amd/amd/detail",
+      "organization_name": "AMD Product Security Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:privatebankdelen",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+      "organization_name": "Delen Private Bank",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:datacamp",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "organization_name": "DataCamp",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:vinted-bugbountyprogram",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
+      "organization_name": "Vinted - Bug Bounty Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:veriffbugbounty",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "organization_name": "Veriff Bug Bounty",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:bmwgroup",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
+      "organization_name": "BMW Group",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:VDP",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/ninealtitudes/VDP/detail",
+      "organization_name": "9altitudes - Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:nexuzhealthwebpacs",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/uz leuven/nexuzhealthwebpacs/detail",
+      "organization_name": "Nexuzhealth Web PACS",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
+    },
+    {
+      "id": "intigriti:truelayer",
+      "platform": "intigriti",
+      "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "organization_name": "TrueLayer",
+      "contact_urls": [],
+      "last_updated": "2026-05-03T03:14:10.783Z",
+      "discovered_at": "2026-05-03T03:14:10.783Z"
     }
   ]
 }
