@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-07T03:17:40.943Z",
+  "scraped_at": "2026-06-08T03:18:53.470Z",
   "platform": "bugcrowd",
   "total_programs": 442,
   "programs": [
@@ -16,8 +16,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rapyd",
@@ -32,8 +32,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:openai-safety",
@@ -48,8 +48,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:etoro-mbb-og",
@@ -64,8 +64,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:optus-mbb-og",
@@ -80,8 +80,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:moovit-mbb-og",
@@ -96,8 +96,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fireblocks-mbb-og",
@@ -112,8 +112,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:luno-og",
@@ -128,8 +128,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:webdotcom",
@@ -144,8 +144,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:hostgator-latam-bb",
@@ -160,8 +160,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:blockchain-dot-com",
@@ -176,8 +176,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:magiclabs-mbb-og",
@@ -192,8 +192,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:chime",
@@ -208,8 +208,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:zendesk",
@@ -224,8 +224,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:okta",
@@ -240,8 +240,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:onetrust",
@@ -256,8 +256,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:snapnames",
@@ -272,8 +272,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitgo-mobileapps-mbb-og",
@@ -288,8 +288,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:internetbrands-public",
@@ -304,8 +304,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ynab",
@@ -320,8 +320,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitso-mbb-og",
@@ -336,8 +336,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:city-of-vienna-mbb-og",
@@ -352,8 +352,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:verisign",
@@ -368,8 +368,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:justeattakeaway",
@@ -384,8 +384,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:underarmour",
@@ -400,8 +400,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:underarmour-corp",
@@ -416,8 +416,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:octopus-deploy",
@@ -432,8 +432,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gearset-mbb",
@@ -448,8 +448,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:viator",
@@ -464,8 +464,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nubank",
@@ -480,8 +480,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tripadvisor-bb-og",
@@ -496,8 +496,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:chipotle-mbb-og",
@@ -512,8 +512,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ultramobile-mobile-apps",
@@ -528,8 +528,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:myfitnesspal-mbb",
@@ -544,8 +544,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:aurory-mbb-og2",
@@ -560,8 +560,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ifood-og",
@@ -576,8 +576,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ultramobile-ecomm",
@@ -592,8 +592,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:immutable",
@@ -608,8 +608,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bolt-og",
@@ -624,8 +624,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:thetradedesk-mbb",
@@ -640,8 +640,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:motorolamobility-iot",
@@ -656,8 +656,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lafourchette",
@@ -672,8 +672,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:thefork-b2c-wng",
@@ -688,8 +688,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mgmmacau-mbb-og",
@@ -704,8 +704,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:codeorg",
@@ -720,8 +720,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitpanda-og-bb",
@@ -736,8 +736,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pnimedia-bb",
@@ -752,8 +752,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lime",
@@ -768,8 +768,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:axis-os-public",
@@ -784,8 +784,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitstamp",
@@ -800,8 +800,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:financialforce",
@@ -816,8 +816,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:osl-mbb-og1",
@@ -832,8 +832,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:northwestern-mutual-mbb-og",
@@ -848,8 +848,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mattermost-mbb-public",
@@ -864,8 +864,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:glean-technologies-public",
@@ -880,8 +880,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sophos",
@@ -896,8 +896,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:recroom-og",
@@ -912,8 +912,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cms-bbpublic",
@@ -928,8 +928,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tempusex-public-mbb-og",
@@ -944,8 +944,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ibotta",
@@ -960,8 +960,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ultramobile-retailer-portal",
@@ -976,8 +976,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:newrelic-mbb-og-public",
@@ -992,8 +992,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sap-private-invite",
@@ -1008,8 +1008,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:personalcapital",
@@ -1024,8 +1024,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kiteworks-public",
@@ -1040,8 +1040,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:directly",
@@ -1056,8 +1056,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:seek-com",
@@ -1072,8 +1072,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sendbird-mbb",
@@ -1088,8 +1088,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitdefenderbox2",
@@ -1104,8 +1104,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:plugin-people",
@@ -1120,8 +1120,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lastpass",
@@ -1136,24 +1136,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:simplisafe",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/simplisafe",
-      "organization_name": "SimpliSafe Managed Bug Bounty Engagement",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 175,
-        "max": 6000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:quizlet",
@@ -1168,24 +1152,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:flourish",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/flourish",
-      "organization_name": "Flourish",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 6000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:eazybi",
@@ -1200,8 +1168,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:coindesk-mbb-og",
@@ -1216,8 +1184,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:comcastvdp",
@@ -1232,8 +1200,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bullish-exchange",
@@ -1248,8 +1216,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:releasemanagement",
@@ -1264,24 +1232,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:maffashion",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/maffashion",
-      "organization_name": "Majid Al Futtaim Lifestyle",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 3500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:originenergy-og1",
@@ -1296,8 +1248,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:izymes",
@@ -1312,8 +1264,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:soundcloud",
@@ -1328,104 +1280,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:craftcoders",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/craftcoders",
-      "organization_name": "Craft Coders Marketplace Bug Bounty",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 1500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:linktree-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/linktree-mbb-og",
-      "organization_name": "Linktree",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 25,
-        "max": 7500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:hutgroup-public",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/hutgroup-public",
-      "organization_name": "The Hut Group: Public Managed Bug Bounty Engagement",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 2500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:openai",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/openai",
-      "organization_name": "OpenAI",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 100000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:pinterest",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/pinterest",
-      "organization_name": "Pinterest",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 200,
-        "max": 25000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:t-mobile",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/t-mobile",
-      "organization_name": "T-Mobile",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 133700,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:skyscanner",
@@ -1440,24 +1296,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:backblaze",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/backblaze",
-      "organization_name": "Backblaze",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 500,
-        "max": 15000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:twentyminuten",
@@ -1472,8 +1312,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:marvelutionbv",
@@ -1488,8 +1328,104 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:maffashion",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/maffashion",
+      "organization_name": "Majid Al Futtaim Lifestyle",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 3500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:simplisafe",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/simplisafe",
+      "organization_name": "SimpliSafe Managed Bug Bounty Engagement",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 175,
+        "max": 6000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:pinterest",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/pinterest",
+      "organization_name": "Pinterest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 200,
+        "max": 25000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:flourish",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/flourish",
+      "organization_name": "Flourish",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 6000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:craftcoders",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/craftcoders",
+      "organization_name": "Craft Coders Marketplace Bug Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 1500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:linktree-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/linktree-mbb-og",
+      "organization_name": "Linktree",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 25,
+        "max": 7500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:navan",
@@ -1504,24 +1440,72 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
-      "id": "bugcrowd:stiltsoft",
+      "id": "bugcrowd:t-mobile",
       "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/stiltsoft",
-      "organization_name": "Stiltsoft",
+      "program_url": "https://bugcrowd.com/engagements/t-mobile",
+      "organization_name": "T-Mobile",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 133700,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:backblaze",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/backblaze",
+      "organization_name": "Backblaze",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 500,
+        "max": 15000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:openai",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/openai",
+      "organization_name": "OpenAI",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 100000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:hutgroup-public",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/hutgroup-public",
+      "organization_name": "The Hut Group: Public Managed Bug Bounty Engagement",
       "contact_urls": [],
       "category": "bug_bounty",
       "rewards": {
         "min": 100,
-        "max": 3000,
+        "max": 2500,
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:netgear",
@@ -1536,8 +1520,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usaa",
@@ -1552,8 +1536,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cfr",
@@ -1568,24 +1552,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:skroutz",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/skroutz",
-      "organization_name": "Skroutz Public Managed Bug Bounty",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 4500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:carrefour",
@@ -1600,8 +1568,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tamedia",
@@ -1616,8 +1584,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:coindesk-mobile-mbb-og",
@@ -1632,40 +1600,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:etsy",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/etsy",
-      "organization_name": "Etsy",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 10000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:square",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/square",
-      "organization_name": "Square",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 18000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:opsgenie",
@@ -1680,8 +1616,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:codefortynine",
@@ -1696,8 +1632,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:inprowiser",
@@ -1712,8 +1648,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:colined",
@@ -1728,24 +1664,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:sky-plc-mbb-og2",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/sky-plc-mbb-og2",
-      "organization_name": "Sky DACH Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 1000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:asana",
@@ -1760,8 +1680,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitdefender",
@@ -1776,24 +1696,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:neohrms",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/neohrms",
-      "organization_name": "NEOGOV Public Assets",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 3500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:keepersecurity",
@@ -1808,8 +1712,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lightspeed-retail",
@@ -1824,40 +1728,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:hpe-networking-product-public",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/hpe-networking-product-public",
-      "organization_name": "HPE Networking Product Public Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 300,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:aiven-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
-      "organization_name": "Aiven Managed Bug Bounty",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 25000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:wise",
@@ -1872,40 +1744,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:classdojo",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/classdojo",
-      "organization_name": "ClassDojo",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 2500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:clickhouse",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/clickhouse",
-      "organization_name": "ClickHouse",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 2500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:auth0-okta",
@@ -1920,24 +1760,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:recorded-future-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/recorded-future-mbb-og",
-      "organization_name": "Recorded Future Public Managed Bug Bounty Engagement",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 250,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:stagil",
@@ -1952,8 +1776,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:xfinity-home",
@@ -1968,8 +1792,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fis",
@@ -1984,24 +1808,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:atlassian",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/atlassian",
-      "organization_name": "Atlassian",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 12000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:thousandeyes-og",
@@ -2016,8 +1824,200 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:etsy",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/etsy",
+      "organization_name": "Etsy",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 10000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:recorded-future-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/recorded-future-mbb-og",
+      "organization_name": "Recorded Future Public Managed Bug Bounty Engagement",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 250,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:sky-plc-mbb-og2",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/sky-plc-mbb-og2",
+      "organization_name": "Sky DACH Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 1000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:atlassian",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/atlassian",
+      "organization_name": "Atlassian",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 12000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:square",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/square",
+      "organization_name": "Square",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:classdojo",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/classdojo",
+      "organization_name": "ClassDojo",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 2500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:aiven-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+      "organization_name": "Aiven Managed Bug Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 25000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:skroutz",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/skroutz",
+      "organization_name": "Skroutz Public Managed Bug Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 4500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:stiltsoft",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/stiltsoft",
+      "organization_name": "Stiltsoft",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 3000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:clickhouse",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/clickhouse",
+      "organization_name": "ClickHouse",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 2500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:neohrms",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/neohrms",
+      "organization_name": "NEOGOV Public Assets",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 3500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:hpe-networking-product-public",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/hpe-networking-product-public",
+      "organization_name": "HPE Networking Product Public Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 300,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:elements",
@@ -2032,8 +2032,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:entain-glf-mbb-og",
@@ -2048,8 +2048,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tyler-tech-data-insights",
@@ -2064,8 +2064,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:projectbalm",
@@ -2080,24 +2080,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:quintoandar",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/quintoandar",
-      "organization_name": "QuintoAndar Managed Bug Bounty Engagement",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 1000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sky-plc-mbb-og",
@@ -2112,8 +2096,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:vox",
@@ -2128,8 +2112,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pixabay",
@@ -2144,8 +2128,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:planethosterinc",
@@ -2160,8 +2144,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:canva",
@@ -2176,8 +2160,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:automationconsultants",
@@ -2192,8 +2176,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sky-plc-mbb-og1",
@@ -2208,8 +2192,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:programmer-hat-market",
@@ -2224,8 +2208,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:devacrobats-market",
@@ -2240,24 +2224,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:volkswagen-vwfs-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/volkswagen-vwfs-mbb-og",
-      "organization_name": "New Blue Website (NBW) - VWFS Bug Bounty Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 175,
-        "max": 4500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rea-mbb-og",
@@ -2272,8 +2240,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:volkswagen-og",
@@ -2288,8 +2256,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:majidalfuttaim-loyalty",
@@ -2304,8 +2272,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:monash-mbb",
@@ -2320,24 +2288,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:spacex",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/spacex",
-      "organization_name": "SpaceX/Starlink",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 100000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:acorns",
@@ -2352,8 +2304,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fivetran-mbb-og",
@@ -2368,40 +2320,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:epam-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/epam-mbb-og",
-      "organization_name": "EPAM Systems Managed Bug Bounty Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 1000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:k15t",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/k15t",
-      "organization_name": "K15t",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 1500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:secureflag-mbb-market",
@@ -2416,8 +2336,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lululemon",
@@ -2432,8 +2352,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:afterpay",
@@ -2448,24 +2368,72 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
-      "id": "bugcrowd:mastercard",
+      "id": "bugcrowd:spacex",
       "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/mastercard",
-      "organization_name": "Mastercard Public Bug Bounty ",
+      "program_url": "https://bugcrowd.com/engagements/spacex",
+      "organization_name": "SpaceX/Starlink",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 100000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:epam-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/epam-mbb-og",
+      "organization_name": "EPAM Systems Managed Bug Bounty Program",
       "contact_urls": [],
       "category": "bug_bounty",
       "rewards": {
         "min": 50,
-        "max": 5000,
+        "max": 1000,
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:volkswagen-vwfs-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/volkswagen-vwfs-mbb-og",
+      "organization_name": "New Blue Website (NBW) - VWFS Bug Bounty Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 175,
+        "max": 4500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:k15t",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/k15t",
+      "organization_name": "K15t",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 1500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:indeed",
@@ -2480,8 +2448,40 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:mastercard",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/mastercard",
+      "organization_name": "Mastercard Public Bug Bounty ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:quintoandar",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/quintoandar",
+      "organization_name": "QuintoAndar Managed Bug Bounty Engagement",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 1000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nextupai",
@@ -2496,8 +2496,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:odesk",
@@ -2512,8 +2512,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:hotdoc",
@@ -2528,8 +2528,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:barracuda",
@@ -2544,8 +2544,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:we-weave",
@@ -2560,40 +2560,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:consensus-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/consensus-mbb-og",
-      "organization_name": "Consensus by CoinDesk",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 250,
-        "max": 7500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:prosus-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/prosus-og",
-      "organization_name": "Prosus",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 1250,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lightspeed-hospitality",
@@ -2608,24 +2576,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:cloudinary",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/cloudinary",
-      "organization_name": "Cloudinary",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 7000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:jora",
@@ -2640,8 +2592,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitgo-mbb-og-public",
@@ -2656,8 +2608,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:legacy-blockchain-mbb-og",
@@ -2672,8 +2624,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pexels",
@@ -2688,8 +2640,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:codeclou",
@@ -2704,8 +2656,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:trello",
@@ -2720,8 +2672,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:elementor",
@@ -2736,8 +2688,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:CCData-mbb-og",
@@ -2752,8 +2704,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:unity",
@@ -2768,8 +2720,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:atlassianapps",
@@ -2784,8 +2736,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kucoin",
@@ -2800,24 +2752,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:trm-labs-public-mbb",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/trm-labs-public-mbb",
-      "organization_name": "TRM Labs Public Bug Bounty Engagement",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 1000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:statuspage",
@@ -2832,8 +2768,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cashapp",
@@ -2848,24 +2784,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:dell-product",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/dell-product",
-      "organization_name": "Dell Technologies' Products Bug Bounty Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 200,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:intercom",
@@ -2880,8 +2800,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:octopus-og",
@@ -2896,56 +2816,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:bugcrowd",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/bugcrowd",
-      "organization_name": "Bugcrowd",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 10000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:smartchain-mbb-og",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
-      "organization_name": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 200,
-        "max": 12000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:tesla",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/tesla",
-      "organization_name": "Tesla",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 100000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:arlo",
@@ -2960,40 +2832,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:ciscomeraki",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/ciscomeraki",
-      "organization_name": "Cisco Meraki",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 10000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:opensea",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/opensea",
-      "organization_name": "OpenSea Managed Bug Bounty Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 125,
-        "max": 3000000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:soteri",
@@ -3008,56 +2848,120 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
-      "id": "bugcrowd:dell-com",
+      "id": "bugcrowd:cloudinary",
       "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/dell-com",
-      "organization_name": "Dell Technologies Application Bug Bounty",
+      "program_url": "https://bugcrowd.com/engagements/cloudinary",
+      "organization_name": "Cloudinary",
       "contact_urls": [],
       "category": "bug_bounty",
       "rewards": {
-        "min": 50,
-        "max": 2500,
+        "min": null,
+        "max": 7000,
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
-      "id": "bugcrowd:fireblocks-mbb-og2",
+      "id": "bugcrowd:ciscomeraki",
       "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
-      "organization_name": "Fireblocks MPC Managed Bug Bounty Engagement",
+      "program_url": "https://bugcrowd.com/engagements/ciscomeraki",
+      "organization_name": "Cisco Meraki",
       "contact_urls": [],
       "category": "bug_bounty",
       "rewards": {
-        "min": 300,
-        "max": 250000,
+        "min": 100,
+        "max": 10000,
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
-      "id": "bugcrowd:binance",
+      "id": "bugcrowd:smartchain-mbb-og",
       "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/binance",
-      "organization_name": "Binance",
+      "program_url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
+      "organization_name": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
       "contact_urls": [],
       "category": "bug_bounty",
       "rewards": {
         "min": 200,
-        "max": 100000,
+        "max": 12000,
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:consensus-mbb-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/consensus-mbb-og",
+      "organization_name": "Consensus by CoinDesk",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 250,
+        "max": 7500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:bugcrowd",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/bugcrowd",
+      "organization_name": "Bugcrowd",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 10000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:opensea",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/opensea",
+      "organization_name": "OpenSea Managed Bug Bounty Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 125,
+        "max": 3000000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:dell-product",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/dell-product",
+      "organization_name": "Dell Technologies' Products Bug Bounty Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 200,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:thefork-mbb-og",
@@ -3072,8 +2976,104 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:prosus-og",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/prosus-og",
+      "organization_name": "Prosus",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 1250,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:tesla",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/tesla",
+      "organization_name": "Tesla",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 100000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:binance",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/binance",
+      "organization_name": "Binance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 200,
+        "max": 100000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:fireblocks-mbb-og2",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
+      "organization_name": "Fireblocks MPC Managed Bug Bounty Engagement",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 300,
+        "max": 250000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:trm-labs-public-mbb",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/trm-labs-public-mbb",
+      "organization_name": "TRM Labs Public Bug Bounty Engagement",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 1000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:dell-com",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/dell-com",
+      "organization_name": "Dell Technologies Application Bug Bounty",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 2500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:shipwire",
@@ -3088,8 +3088,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:orderlynetwork-mbb-og",
@@ -3104,8 +3104,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:orderlynetwork-mbb-og2",
@@ -3120,8 +3120,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:zola-mbb-og",
@@ -3136,8 +3136,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:celix-solutions-market",
@@ -3152,8 +3152,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:entain-public-mbb-og",
@@ -3168,8 +3168,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:agilislt",
@@ -3184,8 +3184,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nemetschek",
@@ -3200,8 +3200,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ultramobile-public",
@@ -3216,24 +3216,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:balsamiq",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/balsamiq",
-      "organization_name": "Balsamiq for Atlassian Products",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 1500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bullish",
@@ -3248,8 +3232,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:wyze",
@@ -3264,8 +3248,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:optimizely",
@@ -3280,8 +3264,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:comcast-mbb",
@@ -3296,40 +3280,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:refined2",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/refined2",
-      "organization_name": "Refined",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 2500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:seek",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/seek",
-      "organization_name": "SEEK ",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 50,
-        "max": 10000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kaleido",
@@ -3344,8 +3296,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kantega",
@@ -3360,56 +3312,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:irobot",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/irobot",
-      "organization_name": "iRobot",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 4500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:mallofemirates",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/mallofemirates",
-      "organization_name": "Majid Al Futtaim Properties",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 2600,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:plusgrade-mbb-public",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/plusgrade-mbb-public",
-      "organization_name": "Plusgrade Loyalty Public Program",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 150,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:felix-health-mbb-og",
@@ -3424,40 +3328,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:latitude-financial-service-bugbounty",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/latitude-financial-service-bugbounty",
-      "organization_name": "Latitude Financial Services Bug Bounty ",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 150,
-        "max": 7500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:freedomofpress",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/freedomofpress",
-      "organization_name": "SecureDrop",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 100,
-        "max": 2500,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:imperva-mbb",
@@ -3472,8 +3344,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kohls",
@@ -3488,24 +3360,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:blockopensource",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/blockopensource",
-      "organization_name": "Block Open Source",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": null,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:quirk-consulting",
@@ -3520,8 +3376,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:upwork",
@@ -3536,24 +3392,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:moneytreekkog",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/moneytreekkog",
-      "organization_name": "Moneytree KK",
-      "contact_urls": [],
-      "category": "bug_bounty",
-      "rewards": {
-        "min": 300,
-        "max": 5000,
-        "currency": "USD",
-        "offers_bounties": true
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:myapp-mbb-og",
@@ -3568,8 +3408,8 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:opera",
@@ -3584,8 +3424,136 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:balsamiq",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/balsamiq",
+      "organization_name": "Balsamiq for Atlassian Products",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 1500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:mallofemirates",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/mallofemirates",
+      "organization_name": "Majid Al Futtaim Properties",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 2600,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:latitude-financial-service-bugbounty",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/latitude-financial-service-bugbounty",
+      "organization_name": "Latitude Financial Services Bug Bounty ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 150,
+        "max": 7500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:plusgrade-mbb-public",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/plusgrade-mbb-public",
+      "organization_name": "Plusgrade Loyalty Public Program",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 150,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:freedomofpress",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/freedomofpress",
+      "organization_name": "SecureDrop",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 2500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:refined2",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/refined2",
+      "organization_name": "Refined",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 2500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:seek",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/seek",
+      "organization_name": "SEEK ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 50,
+        "max": 10000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:moneytreekkog",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/moneytreekkog",
+      "organization_name": "Moneytree KK",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 300,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pantheon",
@@ -3600,8 +3568,24 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:irobot",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/irobot",
+      "organization_name": "iRobot",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": 100,
+        "max": 4500,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tidal-bugbounty",
@@ -3616,8 +3600,24 @@
         "currency": "USD",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:blockopensource",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/blockopensource",
+      "organization_name": "Block Open Source",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 5000,
+        "currency": "USD",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sonic-vdp-pro",
@@ -3632,8 +3632,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:iagloyalty-vdp-pro",
@@ -3648,8 +3648,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:apra-vdp-pro",
@@ -3664,8 +3664,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:iag-transform-vdp-pro",
@@ -3680,8 +3680,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ltk-vdp-pro",
@@ -3696,8 +3696,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bupa-aus-vdp-pro",
@@ -3712,8 +3712,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:insigniafinancial",
@@ -3728,8 +3728,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:victoriassecret-vdp",
@@ -3744,8 +3744,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dickssportinggoods",
@@ -3760,8 +3760,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rakuten-vdp-pro",
@@ -3776,8 +3776,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:geotab-vdp",
@@ -3792,8 +3792,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cengage-vdp",
@@ -3808,8 +3808,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bendigobank-vdp",
@@ -3824,8 +3824,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:flybuys-vdp-pro",
@@ -3840,8 +3840,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mcdonalds",
@@ -3856,8 +3856,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:keurigdrpepper-vdp-pro",
@@ -3872,8 +3872,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:owasp-vdp-pro",
@@ -3888,8 +3888,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:jll-vdp-pro",
@@ -3904,8 +3904,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sunrun-vdp-pro",
@@ -3920,8 +3920,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nfl-vdp-pro",
@@ -3936,8 +3936,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bbw-vdp-pro",
@@ -3952,8 +3952,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:hsbc-vdp-pro",
@@ -3968,8 +3968,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:webflow-vdp-pro",
@@ -3984,8 +3984,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:belong-vdp-pro",
@@ -4000,8 +4000,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lumenvdp",
@@ -4016,8 +4016,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:assaabloy-americas-vdp",
@@ -4032,8 +4032,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:blackbaud-vdp",
@@ -4048,8 +4048,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:strongdm",
@@ -4064,8 +4064,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:coles-vdp-pro",
@@ -4080,8 +4080,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:quitelike-vdp-pro",
@@ -4096,8 +4096,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:telstra-health",
@@ -4112,8 +4112,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nine-entertainment-vdp-pro",
@@ -4128,8 +4128,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:newbalance-vdppro",
@@ -4144,8 +4144,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:trimble-vdp-pro",
@@ -4160,8 +4160,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:university-canterbury-vdp-pro",
@@ -4176,8 +4176,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dish-network-vdp-pro",
@@ -4192,8 +4192,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tns-vdp-pro",
@@ -4208,8 +4208,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:interwell-health-vdp-pro",
@@ -4224,8 +4224,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:adoreme-vdp",
@@ -4240,8 +4240,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ultabeauty-vdp",
@@ -4256,8 +4256,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:zaxbys-vdp-pro",
@@ -4272,8 +4272,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:posthog-vdp-pro",
@@ -4288,8 +4288,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mckesson-vdp-pro",
@@ -4304,8 +4304,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:oyo-vdp-pro",
@@ -4320,8 +4320,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ziffdavis-vdp-pro",
@@ -4336,8 +4336,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:macquarie-group-vdp",
@@ -4352,8 +4352,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:seatgeek-vdp-pro",
@@ -4368,8 +4368,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:domain-vdp-pro",
@@ -4384,8 +4384,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gamingcorps-vdp-pro",
@@ -4400,8 +4400,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:racv-vdp-pro",
@@ -4416,8 +4416,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gapinc",
@@ -4432,8 +4432,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gusto-vdp",
@@ -4448,8 +4448,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:united-vdp",
@@ -4464,8 +4464,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:virtru-vdp-pro",
@@ -4480,8 +4480,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:labcorp-vdp1",
@@ -4496,8 +4496,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:udall-vdp",
@@ -4512,8 +4512,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sharefile-vdp-pro",
@@ -4528,8 +4528,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ncua-vdp",
@@ -4544,8 +4544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:datadirect-vdp",
@@ -4560,8 +4560,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:marklogic-vdp",
@@ -4576,8 +4576,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:whatsupgold-vdp",
@@ -4592,8 +4592,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:loadmaster-vdp",
@@ -4608,8 +4608,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:corporatewebsites-vdp",
@@ -4624,8 +4624,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:progressdatacloud-vdp-pro",
@@ -4640,8 +4640,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:flowmon-vdp",
@@ -4656,8 +4656,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sitefinity-vdp",
@@ -4672,8 +4672,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:openedge-vdp",
@@ -4688,8 +4688,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:devtools-vdp",
@@ -4704,8 +4704,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kroger-vdp",
@@ -4720,8 +4720,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:emag-vdp-pro",
@@ -4736,8 +4736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lucidmotors-vdp",
@@ -4752,8 +4752,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:osmre-vdp",
@@ -4768,8 +4768,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cfpb-vdp",
@@ -4784,8 +4784,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ssa-vdp",
@@ -4800,8 +4800,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:prc-vdp1",
@@ -4816,8 +4816,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:Genius-VDP",
@@ -4832,8 +4832,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usgs-vdp",
@@ -4848,8 +4848,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bordgaisenergy",
@@ -4864,8 +4864,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:abinbev-vdp",
@@ -4880,8 +4880,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cms-vdp",
@@ -4896,8 +4896,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:roobet-vdp",
@@ -4912,8 +4912,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:village-roadshow-vdp-pro",
@@ -4928,8 +4928,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:wsftp-vdp",
@@ -4944,8 +4944,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:corticon-vdp",
@@ -4960,8 +4960,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:onhir-vdp",
@@ -4976,8 +4976,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:citi",
@@ -4992,8 +4992,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:eeoc-vdp",
@@ -5008,8 +5008,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nigc-vdp",
@@ -5024,8 +5024,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mcc-vdp",
@@ -5040,8 +5040,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usac-vdp-pro",
@@ -5056,8 +5056,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:allstate-vdp-pro",
@@ -5072,8 +5072,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:absolutesoftware-vdp-pro2",
@@ -5088,8 +5088,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:westpac-vdp-pro",
@@ -5104,8 +5104,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usagm-vdp",
@@ -5120,8 +5120,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:appdynamics-vdp",
@@ -5136,8 +5136,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:phyn-belkin-vdp-pro",
@@ -5152,8 +5152,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:despegar-vdp-pro",
@@ -5168,8 +5168,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fmshrc-vdp",
@@ -5184,8 +5184,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:tva-vdp",
@@ -5200,8 +5200,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rrb-vdp",
@@ -5216,8 +5216,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:progress-podio-vdp",
@@ -5232,8 +5232,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dol-vdp",
@@ -5248,8 +5248,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:opm-vdp",
@@ -5264,8 +5264,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:olx-eu",
@@ -5280,8 +5280,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:monash-esf",
@@ -5296,8 +5296,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cdt-vdp-pro",
@@ -5312,8 +5312,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bitdiscovery",
@@ -5328,8 +5328,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:owaspcrsfguard",
@@ -5344,8 +5344,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dyson-demo-vdp-engagement",
@@ -5360,8 +5360,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ntsb-vdp",
@@ -5376,8 +5376,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fhfa-vdp",
@@ -5392,8 +5392,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pclob-vdp",
@@ -5408,8 +5408,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cpsc-vdp",
@@ -5424,8 +5424,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:regions-vdp",
@@ -5440,8 +5440,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:five9-vdp",
@@ -5456,8 +5456,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:plusgrade-vdp-pro",
@@ -5472,8 +5472,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sproutsocial",
@@ -5488,8 +5488,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:moveit-vdp",
@@ -5504,8 +5504,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:deutschebank-vdp",
@@ -5520,8 +5520,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fcc-vdp",
@@ -5536,8 +5536,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:santos-vdp",
@@ -5552,8 +5552,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cigie-vdp",
@@ -5568,8 +5568,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:telefonicavdp",
@@ -5584,8 +5584,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:doi-vdp",
@@ -5600,8 +5600,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:onrr-vdp",
@@ -5616,8 +5616,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:arlokudos",
@@ -5632,8 +5632,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:psa-vdp",
@@ -5648,8 +5648,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:westjet-disclose",
@@ -5664,24 +5664,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:maryland-vdp-pro",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/maryland-vdp-pro",
-      "organization_name": "State of Maryland Vulnerability Disclosure Program",
-      "contact_urls": [],
-      "category": "vdp",
-      "rewards": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "offers_bounties": false
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rmit-university-vdp-pro",
@@ -5696,8 +5680,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:chemistwarehouse-vdp-pro",
@@ -5712,8 +5696,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gsa-vdp",
@@ -5728,8 +5712,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:xero-vdp-pro",
@@ -5744,8 +5728,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:optus-vdp-pro",
@@ -5760,8 +5744,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:hemi",
@@ -5776,8 +5760,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:abmc-vdp",
@@ -5792,8 +5776,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:costar-vdp-pro",
@@ -5808,8 +5792,24 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:maryland-vdp-pro",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/maryland-vdp-pro",
+      "organization_name": "State of Maryland Vulnerability Disclosure Program",
+      "contact_urls": [],
+      "category": "vdp",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": false
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:chef-vdp",
@@ -5824,8 +5824,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fmc-vdp",
@@ -5840,8 +5840,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bnz",
@@ -5856,8 +5856,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nlrb-vdp",
@@ -5872,8 +5872,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usitc-vdp",
@@ -5888,8 +5888,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:owaspjavaencoder",
@@ -5904,8 +5904,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:northwestern-vdp",
@@ -5920,8 +5920,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:pbgc-vdp",
@@ -5936,8 +5936,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:owf-vdp",
@@ -5952,8 +5952,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dfc-vdp",
@@ -5968,8 +5968,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:marqeta-vdp-public",
@@ -5984,8 +5984,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:epa-vdp",
@@ -6000,24 +6000,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
-    },
-    {
-      "id": "bugcrowd:anz-vdp",
-      "platform": "bugcrowd",
-      "program_url": "https://bugcrowd.com/engagements/anz-vdp",
-      "organization_name": "ANZ Responsible Disclosure Program",
-      "contact_urls": [],
-      "category": "vdp",
-      "rewards": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "offers_bounties": false
-      },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:csosa-vdp",
@@ -6032,8 +6016,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:blm-vdp",
@@ -6048,8 +6032,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:telstra-vdp",
@@ -6064,8 +6048,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sba-vdp",
@@ -6080,8 +6064,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:netgearkudos",
@@ -6096,8 +6080,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bie-vdp",
@@ -6112,8 +6096,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:service-nsw-vdp",
@@ -6128,8 +6112,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ohio-ago-vdp-pro",
@@ -6144,8 +6128,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:sky-vdp",
@@ -6160,8 +6144,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:houseful-zoopla-vdp",
@@ -6176,8 +6160,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:bia-vdp",
@@ -6192,8 +6176,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:unilever-vdp",
@@ -6208,8 +6192,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:treasury-vdp",
@@ -6224,8 +6208,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usdot-vdp",
@@ -6240,8 +6224,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:stake-vdp-pro",
@@ -6256,8 +6240,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:gartner-disclosure",
@@ -6272,8 +6256,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ciscosecurity",
@@ -6288,8 +6272,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nationalaustraliabankog",
@@ -6304,8 +6288,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kick-vdp-pro",
@@ -6320,8 +6304,24 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
+    },
+    {
+      "id": "bugcrowd:anz-vdp",
+      "platform": "bugcrowd",
+      "program_url": "https://bugcrowd.com/engagements/anz-vdp",
+      "organization_name": "ANZ Responsible Disclosure Program",
+      "contact_urls": [],
+      "category": "vdp",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": false
+      },
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:testing-vdp-pro",
@@ -6336,8 +6336,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:smartthings",
@@ -6352,8 +6352,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:latitudefinancial-vdp",
@@ -6368,8 +6368,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:frtib-vdp",
@@ -6384,8 +6384,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cisco-meraki-vdp-pro",
@@ -6400,8 +6400,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:exim-vdp",
@@ -6416,8 +6416,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:thousandeyes-vdp",
@@ -6432,8 +6432,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:oshrc-vdp",
@@ -6448,8 +6448,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:natwest-vdp",
@@ -6464,8 +6464,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cisco-cpx-vdp",
@@ -6480,8 +6480,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usda-vdp",
@@ -6496,8 +6496,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:stickman2",
@@ -6512,8 +6512,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:stability-ai-vdp-pro",
@@ -6528,8 +6528,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:iaf-vdp",
@@ -6544,8 +6544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usbr-vdp",
@@ -6560,8 +6560,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:stryker-vdp",
@@ -6576,8 +6576,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:legalzoom-vdp",
@@ -6592,8 +6592,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:owaspjavasanitizer",
@@ -6608,8 +6608,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nsf-vdp",
@@ -6624,8 +6624,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nps-vdp",
@@ -6640,8 +6640,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:statefarm-esf",
@@ -6656,8 +6656,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:lenovoresponsibledisclosure",
@@ -6672,8 +6672,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rsac-vdp-pro",
@@ -6688,8 +6688,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:va-vdp",
@@ -6704,8 +6704,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dnfsb-vdp",
@@ -6720,8 +6720,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:uni-melbourne-vdp",
@@ -6736,8 +6736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:usdoc-vdp",
@@ -6752,8 +6752,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fws-vdp",
@@ -6768,8 +6768,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:cibc-vdp",
@@ -6784,8 +6784,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:figment-vdp",
@@ -6800,8 +6800,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:mn-secretary-of-state-vdp",
@@ -6816,8 +6816,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:progresssoftware-rag",
@@ -6832,8 +6832,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:retool-vdp",
@@ -6848,8 +6848,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:overstockvdp",
@@ -6864,8 +6864,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:arrow-electronics-vdp",
@@ -6880,8 +6880,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:seagate-vdp",
@@ -6896,8 +6896,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:csb-vdp",
@@ -6912,8 +6912,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:fdic-vdp",
@@ -6928,8 +6928,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:unisys-vdp-pro",
@@ -6944,8 +6944,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:ftc-vdp",
@@ -6960,8 +6960,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:dhs-vdp",
@@ -6976,8 +6976,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:rokt-pte-vdp-pro",
@@ -6992,8 +6992,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:umbrella-vdp-pro",
@@ -7008,8 +7008,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:healthifyme",
@@ -7024,8 +7024,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:kmartaustralia-vdp-pro",
@@ -7040,8 +7040,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:hackme",
@@ -7056,8 +7056,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     },
     {
       "id": "bugcrowd:nasa-vdp",
@@ -7072,8 +7072,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-06-07T03:17:23.958Z",
-      "discovered_at": "2026-06-07T03:17:23.958Z"
+      "last_updated": "2026-06-08T03:18:38.682Z",
+      "discovered_at": "2026-06-08T03:18:38.682Z"
     }
   ]
 }
