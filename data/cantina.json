@@ -1,7 +1,8 @@
 {
-  "scraped_at": "2026-06-28T04:28:38.043Z",
+  "scraped_at": "2026-06-28T04:34:47.664Z",
   "platform": "cantina",
   "total_programs": 143,
+  "active_programs": 0,
   "programs": [
     {
       "id": "cantina:e7af4986-183d-4764-8bd2-1d6b47f87d99",
@@ -16,8 +17,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e2cf6906-ec8b-4c78-a585-74ac90615659",
@@ -32,8 +35,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:19c5a5a6-f68d-4da8-b185-3f28c7f97bc1",
@@ -48,8 +53,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:1845d0b1-1d2b-42be-b347-a866d6549fca",
@@ -64,8 +71,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:38271533-dde5-4b48-95d5-58116fe8c62c",
@@ -80,8 +89,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:52f3f9d9-7929-4bde-8d3a-2b5fc0863f35",
@@ -96,8 +107,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:619e22ff-d9c9-47ab-be0b-b932a7df036e",
@@ -112,8 +125,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:642d8a2b-6a3b-4c54-9ff0-9b1fa3f3fbc7",
@@ -128,8 +143,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:9ab19e33-b73c-4384-83a8-b905f508ce5e",
@@ -144,8 +161,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a294d1aa-2c08-409e-b73a-51cdc76b1757",
@@ -160,8 +179,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:abdbb5f0-d157-4db4-ada6-59fe837f4583",
@@ -176,8 +197,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:acc729ac-07d4-4806-89be-4e6715b752c6",
@@ -192,8 +215,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:b568afa3-63e8-447e-9d9f-9318943fbbf7",
@@ -208,8 +233,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f5182971-2ac4-42dc-89f1-d65d0d2425b8",
@@ -224,8 +251,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f7255cf4-8c1a-4082-b262-3c0e21af8dae",
@@ -240,8 +269,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:41306bb9-2bb8-4da6-95c3-66b85e11639f",
@@ -256,8 +287,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:c90131b4-5c7c-4ebc-a1f3-8002d219bfe0",
@@ -272,8 +305,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d139882b-2d3a-49ac-9849-9dccef584090",
@@ -288,8 +323,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:0561defa-eeb2-4a74-8884-5d7a873afa58",
@@ -304,8 +341,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:949ad7c5-ea14-427d-b10a-54e33cef921b",
@@ -320,8 +359,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ddc75feb-752e-4a61-8731-9c7c4c014128",
@@ -336,8 +377,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a188a03f-4631-4b58-82ce-a5818a6df332",
@@ -352,8 +395,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:1ea959a6-7b85-4cda-98ed-32c88be2f3ff",
@@ -368,8 +413,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:4679e0fa-85f7-4ea5-8827-ee6c70bdee6b",
@@ -384,8 +431,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "judging",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ac757733-81a4-43c7-8f49-17c5b135cdff",
@@ -400,8 +449,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f8f20c00-f84e-43d7-a0a4-ec818b98df82",
@@ -416,8 +467,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d86632df-ab33-4448-8198-64955eae6712",
@@ -432,8 +485,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3a42798b-b1aa-4b10-b5e4-a8bbc22a70bc",
@@ -448,8 +503,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:18f1e37b-9ac2-4ba9-b32e-50344500c1a7",
@@ -464,8 +521,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d",
@@ -480,8 +539,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:44b385bf-e51a-4e6c-b3a8-adbbe24d16e1",
@@ -496,8 +557,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:44d68da7-3cf4-4cec-a3f8-f0917062dac6",
@@ -512,8 +575,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:523e1540-f8c3-45ae-9c5d-b6d35d3a326c",
@@ -528,8 +593,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:5ffcedec-7e2e-4717-a3e4-e9041ca541c2",
@@ -544,8 +611,10 @@
         "currency": "GHO",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:b7c7def5-1033-4a4c-809d-08e507fb3583",
@@ -560,8 +629,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:5617fffa-4b67-42a7-a9f5-dad93627faa3",
@@ -576,8 +647,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:21787352-de2c-4a77-af09-cc0a250d1f04",
@@ -592,8 +665,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:84df57a3-0526-49b8-a7c5-334888f43940",
@@ -608,8 +683,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ad445d42-9d39-4bcf-becb-0c6c8689b767",
@@ -624,8 +701,10 @@
         "currency": "GHO",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:2cd0b038-3e32-4db6-b488-0f85b6f0e49f",
@@ -640,8 +719,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a0a58a8b-247e-4203-b3cb-476ded9d5515",
@@ -656,8 +737,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:80a33cf0-ad69-4163-a269-d27756aacb5e",
@@ -672,8 +755,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:cb538ed2-6770-4646-a32b-610b62d9a34c",
@@ -688,8 +773,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:b92d2750-d5a3-4c53-9bca-2e70d5dfe0ac",
@@ -704,8 +791,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:990ce947-05da-443e-b397-be38a65f0bff",
@@ -720,8 +809,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:26d5255b-6f68-46cf-be55-81dd565d9d16",
@@ -736,8 +827,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d86b7f95-e574-4092-8ea2-78dcac2f54f1",
@@ -752,8 +845,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8409a0ce-6c21-4cc9-8ef2-bd77ce7425af",
@@ -768,8 +863,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f0cfe0e9-290b-4967-94ac-504375329127",
@@ -784,8 +881,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:4b6f08a7-e830-4499-9977-08e2c3b32068",
@@ -800,8 +899,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:627528d0-db8a-4c42-b8b4-a5760ff31baf",
@@ -816,8 +917,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:cd180bb3-5d7d-46ed-8b99-d905e54a9d0b",
@@ -832,8 +935,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:050711ca-a6d1-4fdd-9f94-3816233c1bd5",
@@ -848,8 +953,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:781d30df-39a9-47e6-b290-e388c79e04ea",
@@ -864,8 +971,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:c486d600-bed0-4fc6-aed1-de759fd29fa2",
@@ -880,8 +989,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3cc30b66-1cba-4044-968f-a0817cd7bf83",
@@ -896,8 +1007,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:7d650b99-8a40-49d1-9b65-2b060accfbb7",
@@ -912,8 +1025,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ae57d1ed-c242-4eac-932a-ef596c9bcc67",
@@ -928,8 +1043,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:cdce21ba-b787-4df4-9c56-b31d085388e7",
@@ -944,8 +1061,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:2adf7150-27ba-4cba-86a2-bd8ea175e7da",
@@ -960,8 +1079,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a83eaf73-9cbc-495f-8607-e55d4fdaf407",
@@ -976,8 +1097,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f214cf86-cc80-40c0-a70b-e9bb25d7ac80",
@@ -992,8 +1115,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:31a752e3-8ece-49b3-a9ee-d7294c659340",
@@ -1008,8 +1133,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8773f033-afa5-4e7b-b0e8-8f989062ae8a",
@@ -1024,8 +1151,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1",
@@ -1040,8 +1169,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ce181972-2b40-4047-8ee9-89ec43527686",
@@ -1056,8 +1187,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d47f8096-8858-437d-a9f5-2fe85ac9b95e",
@@ -1072,8 +1205,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:6837e02a-0a87-4577-a047-4e1ea71cff01",
@@ -1088,8 +1223,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:08c2b0b4-8449-4136-82a2-7074ccdfffac",
@@ -1104,8 +1241,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:58cd719b-9004-4eca-a113-41d1691c0711",
@@ -1120,8 +1259,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3",
@@ -1136,8 +1277,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f1433ef1-f309-4d37-b95a-eb6d17054cc5",
@@ -1152,8 +1295,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3765f098-ef5c-47be-beb9-3f4ce9dcb407",
@@ -1168,8 +1313,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:eb93d215-e328-4d19-99ab-6c510acbb5aa",
@@ -1184,8 +1331,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:4ee8716d-3e0e-4f59-b90d-aa56bf3b484c",
@@ -1200,8 +1349,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:57b00aab-8f8b-4d62-9378-41b6460ce6aa",
@@ -1216,8 +1367,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f9326d2b-bb99-45a9-88c5-94c54aa1823a",
@@ -1232,8 +1385,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:c2e31b04-fbb2-4355-80ef-141d58b6e0cc",
@@ -1248,8 +1403,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:61087007-c7e9-4c4e-9d90-4e118933fecf",
@@ -1264,8 +1421,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:9dfca0bc-a7bf-482e-a3df-4eb861f55c4f",
@@ -1280,8 +1439,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:691ce303-f137-437a-bf34-aef87dfe983b",
@@ -1296,8 +1457,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8",
@@ -1312,8 +1475,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8b94becd-54e7-41cd-88e6-caae7becc76a",
@@ -1328,8 +1493,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:7a40c849-0b35-4128-b084-d9a83fd533ea",
@@ -1344,8 +1511,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:02c29467-cb27-4beb-b2ef-500ad95e1a51",
@@ -1360,8 +1529,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:917d796b-48d0-41d0-bb40-be137b7d3db5",
@@ -1376,8 +1547,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:fe8e03b1-f8db-4698-8a21-44b3a862e434",
@@ -1392,8 +1565,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ddf86a5c-6f63-430f-aadc-d8742b4b1bcf",
@@ -1408,8 +1583,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d4835c42-fc76-4fea-8e2c-70449237fc0e",
@@ -1424,8 +1601,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:829164bf-7fba-4b84-a6b8-76652205bd97",
@@ -1440,8 +1619,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8bab566e-a6d4-4c1b-9f28-71a94bfd1da2",
@@ -1456,8 +1637,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e757364c-1f68-4ec5-94f6-c6b3c2e80c6d",
@@ -1472,8 +1655,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e68909e6-3491-4a94-a707-ecf0c89cf72a",
@@ -1488,8 +1673,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ba62fa4e-f933-4eec-b9ac-868325f4a694",
@@ -1504,8 +1691,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:0f543452-2076-438f-86ae-bbd6b065fffb",
@@ -1520,8 +1709,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:9c6e38e2-535e-47b2-83ef-29df91fbb774",
@@ -1536,8 +1727,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:efb6f308-f13b-4110-aff8-0d67181608dd",
@@ -1552,8 +1745,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e55ee7b9-6c99-42f8-8338-39f3dd134ef3",
@@ -1568,8 +1763,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:28425672-ce54-4c66-b188-c4d5650d6790",
@@ -1584,8 +1781,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8337db39-e04e-470d-8090-0cfb9a7ec2dd",
@@ -1600,8 +1799,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:6c3dc99c-d03f-42b1-8697-dd0c30a6c10e",
@@ -1616,8 +1817,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:74fb60b8-879f-43b1-9f48-c788df0590da",
@@ -1632,8 +1835,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8d7bdfb9-cf19-4294-95d0-763af5d425b4",
@@ -1648,8 +1853,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:708eecf5-a6a0-46c1-a949-277f7408decc",
@@ -1664,8 +1871,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:2ac7f906-1661-47eb-bfd6-519f5db0d36b",
@@ -1680,8 +1889,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a0806644-7d91-457a-a08d-aee2db73f352",
@@ -1696,8 +1907,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d69d41d0-bf70-4578-a820-749e99c4c6c4",
@@ -1712,8 +1925,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:fadb5a8f-e39c-4a6b-89f6-a03858bb8602",
@@ -1728,8 +1943,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:205f8ca3-27fc-4da2-a2e6-0d43e1c60a41",
@@ -1744,8 +1961,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:68d65682-ed04-48aa-969d-09a335de3748",
@@ -1760,8 +1979,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:bd882748-077e-4e55-853f-f8df70109dbb",
@@ -1776,8 +1997,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:980a5976-9a7d-4014-b2e1-c248b4c6fa44",
@@ -1792,8 +2015,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:a2c3cc6a-e384-495f-9751-5d7e657bc219",
@@ -1808,8 +2033,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:55023131-27df-44e4-af46-bec298d0fa8e",
@@ -1824,8 +2051,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3fa36a55-4582-44f9-b142-e2c03348240e",
@@ -1840,8 +2069,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e9e9b3e0-f213-45e4-8d05-d72bf0c8787a",
@@ -1856,8 +2087,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3eff5a8f-b73a-4cfe-8c54-546b475548f0",
@@ -1872,8 +2105,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:1b64737c-1373-4ecf-a179-4cd0d7b0b232",
@@ -1888,8 +2123,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:7db75599-9dad-40aa-9fc7-e879803eea2b",
@@ -1904,8 +2141,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:076935b1-2706-48c6-bf0a-b3656aa24194",
@@ -1920,8 +2159,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef",
@@ -1936,8 +2177,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:50d38b86-80a0-49af-9df8-70d7d601b7d7",
@@ -1952,8 +2195,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:12acc80c-4e4c-4081-a0a3-faa92150651a",
@@ -1968,8 +2213,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:5c4a63a2-e744-43bd-b38b-d0063c117765",
@@ -1984,8 +2231,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:5383fc52-5a0e-4a0d-a470-af5a6d4eab72",
@@ -2000,8 +2249,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:39565094-32b6-45d9-88ce-1ad163a92088",
@@ -2016,8 +2267,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:f57ffb47-0ded-4f04-bcec-ecd7d47fad58",
@@ -2032,8 +2285,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:b0a948cd-c861-4807-b36e-d680d82598bf",
@@ -2048,8 +2303,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:aaf79192-6ea7-4b1e-aed7-3d23212dd0f1",
@@ -2064,8 +2321,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e1c0be8d-0c3d-485a-a446-a582beb120b1",
@@ -2080,8 +2339,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:3211ee0d-133f-43a0-837e-8dc1ecfaa424",
@@ -2096,8 +2357,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d35ebc75-9107-4e58-a923-f81725912138",
@@ -2112,8 +2375,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:d88cb915-64c9-4488-8062-dd16ede7a4a0",
@@ -2128,8 +2393,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:8cb347d2-53b5-4fd0-bbbd-3f67537f2bb0",
@@ -2144,8 +2411,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ffe90f03-ffd0-449b-a15f-6e7702323d16",
@@ -2160,8 +2429,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:c160af78-28f8-47f7-9926-889b3864c6d8",
@@ -2176,8 +2447,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:bd43bdd1-bc7f-473b-96c0-d35d37f3db33",
@@ -2192,8 +2465,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e92be0b9-b4f2-4bf2-9544-ae285fcfc02d",
@@ -2208,8 +2483,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:217af22c-957e-4c13-bc2a-1d5255e72309",
@@ -2224,8 +2501,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:5078f03b-f09a-4955-b783-78d3bbf7837a",
@@ -2240,8 +2519,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:9e6d884b-9a4d-4420-98f4-ac2c2d853387",
@@ -2256,8 +2537,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:e47e6ce9-e0e1-4f8a-ba4a-bc5aba9e7ecf",
@@ -2272,8 +2555,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     },
     {
       "id": "cantina:ae21d78b-f752-4a9e-aad9-9d89f2b4b8b5",
@@ -2288,8 +2573,10 @@
         "currency": "USDC",
         "offers_bounties": false
       },
-      "last_updated": "2026-06-28T04:28:37.577Z",
-      "discovered_at": "2026-06-28T04:28:37.577Z"
+      "status": "complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.215Z",
+      "discovered_at": "2026-06-28T04:34:47.215Z"
     }
   ]
 }

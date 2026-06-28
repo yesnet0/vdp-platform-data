@@ -1,7 +1,8 @@
 {
-  "scraped_at": "2026-06-28T04:28:38.441Z",
+  "scraped_at": "2026-06-28T04:34:48.040Z",
   "platform": "code4rena",
   "total_programs": 25,
+  "active_programs": 0,
   "programs": [
     {
       "id": "code4rena:2026-04-monetrix",
@@ -16,8 +17,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-04-k2",
@@ -32,8 +35,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Judging",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-04-intuition-mitigation-review",
@@ -48,8 +53,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-04-layerzero-stellar-endpoint",
@@ -64,8 +71,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-03-swafe-mitigation-review-round-2",
@@ -80,8 +89,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-03-swafe-mitigation-review",
@@ -96,8 +107,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-03-chainlink-payment-abstraction-v2",
@@ -112,8 +125,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-03-intuition",
@@ -128,8 +143,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-02-injective-peggy-bridge",
@@ -144,8 +161,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-02-panoptic-next-core-mitigation-review-round-2",
@@ -160,8 +179,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-02-panoptic-next-core-mitigation-review",
@@ -176,8 +197,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-02-jupiter-lend",
@@ -192,8 +215,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Judging Complete",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2026-01-olas",
@@ -208,8 +233,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-12-panoptic-next-core",
@@ -224,8 +251,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-12-rujira",
@@ -240,8 +269,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Reporting",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-brix-money",
@@ -256,8 +287,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-sukukfi",
@@ -272,8 +305,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-merkl",
@@ -288,8 +323,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-garden",
@@ -304,8 +341,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-ekubo",
@@ -320,8 +359,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-swafe",
@@ -336,8 +377,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-hybra-finance-mitigation-review-round-2",
@@ -352,8 +395,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-sequence-transaction-rails",
@@ -368,8 +413,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-hybra-finance-mitigation-review",
@@ -384,8 +431,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     },
     {
       "id": "code4rena:2025-11-megapot",
@@ -400,8 +449,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:38.074Z",
-      "discovered_at": "2026-06-28T04:28:38.074Z"
+      "status": "Completed",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:47.686Z",
+      "discovered_at": "2026-06-28T04:34:47.686Z"
     }
   ]
 }

@@ -1,7 +1,8 @@
 {
-  "scraped_at": "2026-06-28T04:28:37.557Z",
+  "scraped_at": "2026-06-28T04:34:47.193Z",
   "platform": "sherlock",
   "total_programs": 257,
+  "active_programs": 0,
   "programs": [
     {
       "id": "sherlock:1259",
@@ -16,8 +17,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "JUDGING",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1260",
@@ -32,8 +35,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "SHERLOCK_JUDGING",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1140",
@@ -48,8 +53,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:333",
@@ -64,8 +71,10 @@
         "currency": "DAI",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:38",
@@ -80,8 +89,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:205",
@@ -96,8 +107,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:677",
@@ -112,8 +125,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1209",
@@ -128,8 +143,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1028",
@@ -144,8 +161,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:59",
@@ -160,8 +179,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:6",
@@ -176,8 +197,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:101",
@@ -192,8 +215,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:832",
@@ -208,8 +233,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1225",
@@ -224,8 +251,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:857",
@@ -240,8 +269,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:747",
@@ -256,8 +287,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:74",
@@ -272,8 +305,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:207",
@@ -288,8 +323,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:63",
@@ -304,8 +341,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:395",
@@ -320,8 +359,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:219",
@@ -336,8 +377,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1102",
@@ -352,8 +395,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:2",
@@ -368,8 +413,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:170",
@@ -384,8 +431,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:81",
@@ -400,8 +449,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:990",
@@ -416,8 +467,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:106",
@@ -432,8 +485,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:79",
@@ -448,8 +503,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:254",
@@ -464,8 +521,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:749",
@@ -480,8 +539,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:454",
@@ -496,8 +557,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1065",
@@ -512,8 +575,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:225",
@@ -528,8 +593,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:442",
@@ -544,8 +611,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:32",
@@ -560,8 +629,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1",
@@ -576,8 +647,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:554",
@@ -592,8 +665,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1223",
@@ -608,8 +683,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1066",
@@ -624,8 +701,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:967",
@@ -640,8 +719,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:128",
@@ -656,8 +737,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:176",
@@ -672,8 +755,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:518",
@@ -688,8 +773,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:180",
@@ -704,8 +791,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:873",
@@ -720,8 +809,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:85",
@@ -736,8 +827,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:195",
@@ -752,8 +845,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:729",
@@ -768,8 +863,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:124",
@@ -784,8 +881,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:575",
@@ -800,8 +899,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:466",
@@ -816,8 +917,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:75",
@@ -832,8 +935,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:137",
@@ -848,8 +953,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:86",
@@ -864,8 +971,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:858",
@@ -880,8 +989,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1054",
@@ -896,8 +1007,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1029",
@@ -912,8 +1025,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:280",
@@ -928,8 +1043,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:114",
@@ -944,8 +1061,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:103",
@@ -960,8 +1079,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:70",
@@ -976,8 +1097,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1001",
@@ -992,8 +1115,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:57",
@@ -1008,8 +1133,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:468",
@@ -1024,8 +1151,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:41",
@@ -1040,8 +1169,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:40",
@@ -1056,8 +1187,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:39",
@@ -1072,8 +1205,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:33",
@@ -1088,8 +1223,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:13",
@@ -1104,8 +1241,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:123",
@@ -1120,8 +1259,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:964",
@@ -1136,8 +1277,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:22",
@@ -1152,8 +1295,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:16",
@@ -1168,8 +1313,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:12",
@@ -1184,8 +1331,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:11",
@@ -1200,8 +1349,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:8",
@@ -1216,8 +1367,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:4",
@@ -1232,8 +1385,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:247",
@@ -1248,8 +1403,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:368",
@@ -1264,8 +1421,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:84",
@@ -1280,8 +1439,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:202",
@@ -1296,8 +1457,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:329",
@@ -1312,8 +1475,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:206",
@@ -1328,8 +1493,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:132",
@@ -1344,8 +1511,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:627",
@@ -1360,8 +1529,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:72",
@@ -1376,8 +1547,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:526",
@@ -1392,8 +1565,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:109",
@@ -1408,8 +1583,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:89",
@@ -1424,8 +1601,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:524",
@@ -1440,8 +1619,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:423",
@@ -1456,8 +1637,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:120",
@@ -1472,8 +1655,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:142",
@@ -1488,8 +1673,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:171",
@@ -1504,8 +1691,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:426",
@@ -1520,8 +1709,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1202",
@@ -1536,8 +1727,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1073",
@@ -1552,8 +1745,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:988",
@@ -1568,8 +1763,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:682",
@@ -1584,8 +1781,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:126",
@@ -1600,8 +1799,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:569",
@@ -1616,8 +1817,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:111",
@@ -1632,8 +1835,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:138",
@@ -1648,8 +1853,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:349",
@@ -1664,8 +1871,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1154",
@@ -1680,8 +1889,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:20",
@@ -1696,8 +1907,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:437",
@@ -1712,8 +1925,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:481",
@@ -1728,8 +1943,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:277",
@@ -1744,8 +1961,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:118",
@@ -1760,8 +1979,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1256",
@@ -1776,8 +1997,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:119",
@@ -1792,8 +2015,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1176",
@@ -1808,8 +2033,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:62",
@@ -1824,8 +2051,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:187",
@@ -1840,8 +2069,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:535",
@@ -1856,8 +2087,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:764",
@@ -1872,8 +2105,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:446",
@@ -1888,8 +2123,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:584",
@@ -1904,8 +2141,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:495",
@@ -1920,8 +2159,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:95",
@@ -1936,8 +2177,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:91",
@@ -1952,8 +2195,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:77",
@@ -1968,8 +2213,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:73",
@@ -1984,8 +2231,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:53",
@@ -2000,8 +2249,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:52",
@@ -2016,8 +2267,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:50",
@@ -2032,8 +2285,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:48",
@@ -2048,8 +2303,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:45",
@@ -2064,8 +2321,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:31",
@@ -2080,8 +2339,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1212",
@@ -2096,8 +2357,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:19",
@@ -2112,8 +2375,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:791",
@@ -2128,8 +2393,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:561",
@@ -2144,8 +2411,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:26",
@@ -2160,8 +2429,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:15",
@@ -2176,8 +2447,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:14",
@@ -2192,8 +2465,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:10",
@@ -2208,8 +2483,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:5",
@@ -2224,8 +2501,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:585",
@@ -2240,8 +2519,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:88",
@@ -2256,8 +2537,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:675",
@@ -2272,8 +2555,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:598",
@@ -2288,8 +2573,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:58",
@@ -2304,8 +2591,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:991",
@@ -2320,8 +2609,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:24",
@@ -2336,8 +2627,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:303",
@@ -2352,8 +2645,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:799",
@@ -2368,8 +2663,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1044",
@@ -2384,8 +2681,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:609",
@@ -2400,8 +2699,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:369",
@@ -2416,8 +2717,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:506",
@@ -2432,8 +2735,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:688",
@@ -2448,8 +2753,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:295",
@@ -2464,8 +2771,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:498",
@@ -2480,8 +2789,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:108",
@@ -2496,8 +2807,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1195",
@@ -2512,8 +2825,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:427",
@@ -2528,8 +2843,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:281",
@@ -2544,8 +2861,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:135",
@@ -2560,8 +2879,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:908",
@@ -2576,8 +2897,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:163",
@@ -2592,8 +2915,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:136",
@@ -2608,8 +2933,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:112",
@@ -2624,8 +2951,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:472",
@@ -2640,8 +2969,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1171",
@@ -2656,8 +2987,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:56",
@@ -2672,8 +3005,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:577",
@@ -2688,8 +3023,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:968",
@@ -2704,8 +3041,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:552",
@@ -2720,8 +3059,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:326",
@@ -2736,8 +3077,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:233",
@@ -2752,8 +3095,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:104",
@@ -2768,8 +3113,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:99",
@@ -2784,8 +3131,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:69",
@@ -2800,8 +3149,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1197",
@@ -2816,8 +3167,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:445",
@@ -2832,8 +3185,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:178",
@@ -2848,8 +3203,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:285",
@@ -2864,8 +3221,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:18",
@@ -2880,8 +3239,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:244",
@@ -2896,8 +3257,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:122",
@@ -2912,8 +3275,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:100",
@@ -2928,8 +3293,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:65",
@@ -2944,8 +3311,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:509",
@@ -2960,8 +3329,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:376",
@@ -2976,8 +3347,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:97",
@@ -2992,8 +3365,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:61",
@@ -3008,8 +3383,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:614",
@@ -3024,8 +3401,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:920",
@@ -3040,8 +3419,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:234",
@@ -3056,8 +3437,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:155",
@@ -3072,8 +3455,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:127",
@@ -3088,8 +3473,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1051",
@@ -3104,8 +3491,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1222",
@@ -3120,8 +3509,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:82",
@@ -3136,8 +3527,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:151",
@@ -3152,8 +3545,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:130",
@@ -3168,8 +3563,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1203",
@@ -3184,8 +3581,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1076",
@@ -3200,8 +3599,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:838",
@@ -3216,8 +3617,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:735",
@@ -3232,8 +3635,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:330",
@@ -3248,8 +3653,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:278",
@@ -3264,8 +3671,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:248",
@@ -3280,8 +3689,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:196",
@@ -3296,8 +3707,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:159",
@@ -3312,8 +3725,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:156",
@@ -3328,8 +3743,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:146",
@@ -3344,8 +3761,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:107",
@@ -3360,8 +3779,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:643",
@@ -3376,8 +3797,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:273",
@@ -3392,8 +3815,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:648",
@@ -3408,8 +3833,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:494",
@@ -3424,8 +3851,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:191",
@@ -3440,8 +3869,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:98",
@@ -3456,8 +3887,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:71",
@@ -3472,8 +3905,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:102",
@@ -3488,8 +3923,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:80",
@@ -3504,8 +3941,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:78",
@@ -3520,8 +3959,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:641",
@@ -3536,8 +3977,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:977",
@@ -3552,8 +3995,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:952",
@@ -3568,8 +4013,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:852",
@@ -3584,8 +4031,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:755",
@@ -3600,8 +4049,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:727",
@@ -3616,8 +4067,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:321",
@@ -3632,8 +4085,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:60",
@@ -3648,8 +4103,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:51",
@@ -3664,8 +4121,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:49",
@@ -3680,8 +4139,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:44",
@@ -3696,8 +4157,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:42",
@@ -3712,8 +4175,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:36",
@@ -3728,8 +4193,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:35",
@@ -3744,8 +4211,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:37",
@@ -3760,8 +4229,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:28",
@@ -3776,8 +4247,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:27",
@@ -3792,8 +4265,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:25",
@@ -3808,8 +4283,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:23",
@@ -3824,8 +4301,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:21",
@@ -3840,8 +4319,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:17",
@@ -3856,8 +4337,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:9",
@@ -3872,8 +4355,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:7",
@@ -3888,8 +4373,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:1263",
@@ -3904,8 +4391,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:516",
@@ -3920,8 +4409,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:493",
@@ -3936,8 +4427,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:396",
@@ -3952,8 +4445,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:362",
@@ -3968,8 +4463,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:332",
@@ -3984,8 +4481,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:287",
@@ -4000,8 +4499,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:243",
@@ -4016,8 +4517,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:184",
@@ -4032,8 +4535,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:144",
@@ -4048,8 +4553,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:131",
@@ -4064,8 +4571,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:647",
@@ -4080,8 +4589,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:496",
@@ -4096,8 +4607,10 @@
         "currency": "OP",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     },
     {
       "id": "sherlock:3",
@@ -4112,8 +4625,10 @@
         "currency": "USDC",
         "offers_bounties": true
       },
-      "last_updated": "2026-06-28T04:28:31.085Z",
-      "discovered_at": "2026-06-28T04:28:31.085Z"
+      "status": "FINISHED",
+      "active": false,
+      "last_updated": "2026-06-28T04:34:40.535Z",
+      "discovered_at": "2026-06-28T04:34:40.535Z"
     }
   ]
 }
