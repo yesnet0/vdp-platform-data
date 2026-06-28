@@ -1,0 +1,368 @@
+{
+  "scraped_at": "2026-06-28T05:43:36.960Z",
+  "platform": "standoff365",
+  "total_programs": 20,
+  "active_programs": 20,
+  "programs": [
+    {
+      "id": "standoff365:flowwow",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/flowwow",
+      "organization_name": "Flowwow",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:perm",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/perm",
+      "organization_name": "Министерство информационного развития и связи Пермского края",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:cloud_ru",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/cloud_ru",
+      "organization_name": "Cloud․ru",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:amurobl",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/amurobl",
+      "organization_name": "Информационные ресурсы Министерства цифрового развития и связи Амурской области",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:logika_moloka",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/logika_moloka",
+      "organization_name": "Логика Молока",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:mybox",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/mybox",
+      "organization_name": "Копилка",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "with_confirmation",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:jet_ue",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/jet_ue",
+      "organization_name": "Jet Infosystems (NTEs)",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "with_confirmation",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_ngfw",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_ngfw",
+      "organization_name": "PT NGFW",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_cs",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_cs",
+      "organization_name": "PT Container Security",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_ai",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_ai",
+      "organization_name": "PT Application Inspector",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_sandbox",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_sandbox",
+      "organization_name": "PT Sandbox",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_af",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_af",
+      "organization_name": "PT Application Firewall",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_ds",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_ds",
+      "organization_name": "PT Data Security",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:mx_o2",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/mx_o2",
+      "organization_name": "MaxPatrol O2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:mx_vm",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/mx_vm",
+      "organization_name": "MaxPatrol VM",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_dephaze",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_dephaze",
+      "organization_name": "PT Dephaze",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_siem",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_siem",
+      "organization_name": "MaxPatrol SIEM",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_isim",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_isim",
+      "organization_name": "PT ISIM",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:mx_360",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/mx_360",
+      "organization_name": "MaxPatrol 360",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    },
+    {
+      "id": "standoff365:pt_nad",
+      "platform": "standoff365",
+      "program_url": "https://bugbounty.standoff365.com/en-US/programs/pt_nad",
+      "organization_name": "PT NAD",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "offers_bounties": null
+      },
+      "status": "public",
+      "active": true,
+      "last_updated": "2026-06-28T05:43:33.169Z",
+      "discovered_at": "2026-06-28T05:43:33.169Z"
+    }
+  ]
+}
