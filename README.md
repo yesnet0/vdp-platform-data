@@ -23,11 +23,19 @@ Committed JSON snapshots inside this repo may be added later; for now, artifacts
 schema/
   program.schema.json   # canonical program record schema
 data/
-  hackerone/            # reserved per-platform dirs for future committed snapshots
-  bugcrowd/
-  intigriti/
-  yeswehack/
+  programs.json         # combined snapshot (all platforms)
+  hackerone.json        # per-platform snapshots: { scraped_at, platform, total_programs, programs[] }
+  bugcrowd.json
+  intigriti.json
+  yeswehack.json
+  sherlock.json         # web3 audit contests + public bug bounties
+  cantina.json          # web3 audit competitions
+  code4rena.json        # web3 audit contests
 ```
+
+Platform coverage is driven by [disclose.io/platforms](https://disclose.io/platforms); see
+[`platform-scraper/COVERAGE.md`](https://github.com/yesnet0/platform-scraper/blob/main/COVERAGE.md)
+for which directory entries are machine-readable (integrated) vs. blocked.
 
 ## Scope
 

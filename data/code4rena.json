@@ -1,0 +1,407 @@
+{
+  "scraped_at": "2026-06-28T04:28:38.441Z",
+  "platform": "code4rena",
+  "total_programs": 25,
+  "programs": [
+    {
+      "id": "code4rena:2026-04-monetrix",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-04-monetrix",
+      "organization_name": "Monetrix",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 22000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-04-k2",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-04-k2",
+      "organization_name": "K2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 135000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-04-intuition-mitigation-review",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-04-intuition-mitigation-review",
+      "organization_name": "Intuition Mitigation Review",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 4000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-04-layerzero-stellar-endpoint",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-04-layerzero-stellar-endpoint",
+      "organization_name": "LayerZero - Stellar endpoint",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 101000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-03-swafe-mitigation-review-round-2",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-03-swafe-mitigation-review-round-2",
+      "organization_name": "Swafe Mitigation Review: Round 2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 12000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-03-swafe-mitigation-review",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-03-swafe-mitigation-review",
+      "organization_name": "Swafe Mitigation Review",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 12000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-03-chainlink-payment-abstraction-v2",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2",
+      "organization_name": "Chainlink Payment Abstraction V2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 65000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-03-intuition",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-03-intuition",
+      "organization_name": "Intuition",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-02-injective-peggy-bridge",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-02-injective-peggy-bridge",
+      "organization_name": "Injective Peggy Bridge",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 105500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-02-panoptic-next-core-mitigation-review-round-2",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-02-panoptic-next-core-mitigation-review-round-2",
+      "organization_name": "Panoptic: Next Core Mitigation Review: Round 2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 6000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-02-panoptic-next-core-mitigation-review",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-02-panoptic-next-core-mitigation-review",
+      "organization_name": "Panoptic: Next Core Mitigation Review",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 6000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-02-jupiter-lend",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-02-jupiter-lend",
+      "organization_name": "Jupiter Lend",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 107000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2026-01-olas",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2026-01-olas",
+      "organization_name": "Olas",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 62000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-12-panoptic-next-core",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-12-panoptic-next-core",
+      "organization_name": "Panoptic: Next Core",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 56000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-12-rujira",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-12-rujira",
+      "organization_name": "Rujira",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 40000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-brix-money",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-brix-money",
+      "organization_name": "Brix Money",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-sukukfi",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-sukukfi",
+      "organization_name": "SukukFi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 40000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-merkl",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-merkl",
+      "organization_name": "Merkl",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-garden",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-garden",
+      "organization_name": "Garden",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 37500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-ekubo",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-ekubo",
+      "organization_name": "Ekubo",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 183500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-swafe",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-swafe",
+      "organization_name": "Swafe",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 100000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-hybra-finance-mitigation-review-round-2",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-hybra-finance-mitigation-review-round-2",
+      "organization_name": "Hybra Finance: mitigation review, round 2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 5000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-sequence-transaction-rails",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-sequence-transaction-rails",
+      "organization_name": "Sequence: Transaction Rails",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-hybra-finance-mitigation-review",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-hybra-finance-mitigation-review",
+      "organization_name": "Hybra Finance Mitigation Review",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 5000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    },
+    {
+      "id": "code4rena:2025-11-megapot",
+      "platform": "code4rena",
+      "program_url": "https://code4rena.com/audits/2025-11-megapot",
+      "organization_name": "Megapot",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:38.074Z",
+      "discovered_at": "2026-06-28T04:28:38.074Z"
+    }
+  ]
+}

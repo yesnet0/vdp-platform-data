@@ -1,0 +1,4119 @@
+{
+  "scraped_at": "2026-06-28T04:28:37.557Z",
+  "platform": "sherlock",
+  "total_programs": 257,
+  "programs": [
+    {
+      "id": "sherlock:1259",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1259",
+      "organization_name": "DRE App - dreUSD",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 60000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1260",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1260",
+      "organization_name": "XRP Ledger - April 2026",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 550000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1140",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1140",
+      "organization_name": "Ethereum Fusaka Upgrade",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 2000000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:333",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/333",
+      "organization_name": "MakerDAO Endgame",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 1388500,
+        "currency": "DAI",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:38",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/38",
+      "organization_name": "Optimism",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 720000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:205",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/205",
+      "organization_name": "Optimism Fault Proofs",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 500000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:677",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/677",
+      "organization_name": "Babylon Chain Launch (Phase-2)",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 375000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1209",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1209",
+      "organization_name": "Aave V4",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 365000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1028",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1028",
+      "organization_name": "Centrifuge Protocol V3.1",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 320000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:59",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/59",
+      "organization_name": "Notional V3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 310000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:6",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/6",
+      "organization_name": "GMX",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 225000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:101",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/101",
+      "organization_name": "Tokemak",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 216200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:832",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/832",
+      "organization_name": "Usual Labs",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 209500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1225",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1225",
+      "organization_name": "Fluid DEX v2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 200000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:857",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/857",
+      "organization_name": "ZetaChain Cross-Chain",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 200000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:747",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/747",
+      "organization_name": "Aave v3.3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 200000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:74",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/74",
+      "organization_name": "GMX Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 200000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:207",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/207",
+      "organization_name": "MorphL2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 183900,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:63",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/63",
+      "organization_name": "Optimism Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 160000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:395",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/395",
+      "organization_name": "Aleo",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 155000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:219",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/219",
+      "organization_name": "Perpetual",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 150215,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1102",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1102",
+      "organization_name": "Yield Basis",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 150000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:2",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/2",
+      "organization_name": "Notional",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 140000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:170",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/170",
+      "organization_name": "Tapioca",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 133200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:81",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/81",
+      "organization_name": "Index",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 130600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:990",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/990",
+      "organization_name": "Cap",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 126000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:106",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/106",
+      "organization_name": "Perennial V2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 125200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:79",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/79",
+      "organization_name": "Perennial",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 122000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:254",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/254",
+      "organization_name": "Perennial V2 Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 120500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:749",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/749",
+      "organization_name": "Peapods",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 120000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:454",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/454",
+      "organization_name": "Allora",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 119000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1065",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1065",
+      "organization_name": "Neutrl Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 118000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:225",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/225",
+      "organization_name": "PoolTogether: The Prize Layer for DeFi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 115000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:442",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/442",
+      "organization_name": "Velocimeter",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 110000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:32",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/32",
+      "organization_name": "Ajna",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 108750,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1",
+      "organization_name": "Sentiment",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 105000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:554",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/554",
+      "organization_name": "Numa",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 104000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1223",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1223",
+      "organization_name": "Flying Tulip",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 100000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1066",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1066",
+      "organization_name": "Dango DEX",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 100000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:967",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/967",
+      "organization_name": "Symbiotic Relay",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 100000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:128",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/128",
+      "organization_name": "Olympus RBS 2.0",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 98000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:176",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/176",
+      "organization_name": "Rio Network",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 96000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:518",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/518",
+      "organization_name": "Perennial V2 Update #3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 95800,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:180",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/180",
+      "organization_name": "Smilee Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 95000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:873",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/873",
+      "organization_name": "Brevis Pico ZKVM",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 92000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:85",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/85",
+      "organization_name": "Symmetrical",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 91000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:195",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/195",
+      "organization_name": "Arrakis Valantis SOT Audit",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 90500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:729",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/729",
+      "organization_name": "SEDA Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 90000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:124",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/124",
+      "organization_name": "M^0",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 88000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:575",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/575",
+      "organization_name": "Usual V1",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 87000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:466",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/466",
+      "organization_name": "ZeroLend One ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 86000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:75",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/75",
+      "organization_name": "Ajna Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 85600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:137",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/137",
+      "organization_name": "Arcadia",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 84500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:86",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/86",
+      "organization_name": "Arrakis",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 81400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:858",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/858",
+      "organization_name": "Burve",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 80500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1054",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1054",
+      "organization_name": "Ammplify",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 80000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1029",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1029",
+      "organization_name": "Malda",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 80000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:280",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/280",
+      "organization_name": "Zivoe",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 80000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:114",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/114",
+      "organization_name": "Ajna #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 78600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:103",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/103",
+      "organization_name": "KyberSwap",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 78200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:70",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/70",
+      "organization_name": "JOJO Exchange",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 78200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1001",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1001",
+      "organization_name": "Notional Exponent",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 75500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:57",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/57",
+      "organization_name": "Y2K",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 75000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:468",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/468",
+      "organization_name": "Flayer",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:41",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/41",
+      "organization_name": "Blueberry",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:40",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/40",
+      "organization_name": "Carapace",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:39",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/39",
+      "organization_name": "OpenQ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:33",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/33",
+      "organization_name": "UXD Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:13",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/13",
+      "organization_name": "Derby",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 72500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:123",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/123",
+      "organization_name": "Perennial V2 Update #1",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 71500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:964",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/964",
+      "organization_name": "Mellow Flexible Vaults",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:22",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/22",
+      "organization_name": "Isomorph",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:16",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/16",
+      "organization_name": "Rage Trade",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:12",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/12",
+      "organization_name": "Illuminate",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:11",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/11",
+      "organization_name": "Union Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:8",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/8",
+      "organization_name": "Astaria",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:4",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/4",
+      "organization_name": "Knox Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 70000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:247",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/247",
+      "organization_name": "Exactly Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 69000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:368",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/368",
+      "organization_name": "Andromeda – Validator Staking ADO and Vesting ADO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 68000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:84",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/84",
+      "organization_name": "Iron Bank",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 67400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:202",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/202",
+      "organization_name": "Nouns DAO - Clients Incentives",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 67000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:329",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/329",
+      "organization_name": "Elfi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 66000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:206",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/206",
+      "organization_name": "Axis Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 64000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:132",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/132",
+      "organization_name": "Flat Money",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 61000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:627",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/627",
+      "organization_name": "Debita Finance V3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 60500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:72",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/72",
+      "organization_name": "Hubble Exchange",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 60000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:526",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/526",
+      "organization_name": "Velar Artha PerpDEX",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 58500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:109",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/109",
+      "organization_name": "Allo V2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 58400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:89",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/89",
+      "organization_name": "DODO V3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 57800,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:524",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/524",
+      "organization_name": "Orderly Solana Vault Contract",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 56500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:423",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/423",
+      "organization_name": "Mellow Modular LRTs",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 56400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:120",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/120",
+      "organization_name": "Aloe",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 56000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:142",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/142",
+      "organization_name": "Notional Update #5",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 55500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:171",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/171",
+      "organization_name": "Napier",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 55000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:426",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/426",
+      "organization_name": "Boost Core Incentive Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1202",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1202",
+      "organization_name": "Inverse Finance - Junior Tranche ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1073",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1073",
+      "organization_name": "USG - Tangent",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:988",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/988",
+      "organization_name": "Usual ETH0",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:682",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/682",
+      "organization_name": "Plaza Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:126",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/126",
+      "organization_name": "Convergence",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 50000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:569",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/569",
+      "organization_name": "Autonomint Colored Dollar V1",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 49500,
+        "currency": "OP",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:111",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/111",
+      "organization_name": "Nouns Builder",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 49500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:138",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/138",
+      "organization_name": "Ubiquity",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 48000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:349",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/349",
+      "organization_name": "Sentiment V2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 47500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1154",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1154",
+      "organization_name": "BMX Deli Swap",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 47000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:20",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/20",
+      "organization_name": "Bond Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 46666,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:437",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/437",
+      "organization_name": "MagicSea - the native DEX on the IotaEVM",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 45750,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:481",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/481",
+      "organization_name": "Thanos L2 Native Token Bridge",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 44000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:277",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/277",
+      "organization_name": "WOOFi Swap",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 44000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:118",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/118",
+      "organization_name": "Real Wagmi #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 42500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1256",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1256",
+      "organization_name": "Current Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 41500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:119",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/119",
+      "organization_name": "Notional Update #4",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 41500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1176",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1176",
+      "organization_name": "Summer.fi - governance v2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 40500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:62",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/62",
+      "organization_name": "Teller",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 39600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:187",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/187",
+      "organization_name": "Mento",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 39500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:535",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/535",
+      "organization_name": "WOOFi Swap on Solana",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 37600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:764",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/764",
+      "organization_name": "Perennial V2 Update #4",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 37500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:446",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/446",
+      "organization_name": "Notional Leveraged Vaults: Pendle PT and Vault Incentives",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 37500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:584",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/584",
+      "organization_name": "Ethos Network Social Contracts",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:495",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/495",
+      "organization_name": "Midas - Instant Minter/Redeemer",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:95",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/95",
+      "organization_name": "Unstoppable",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:91",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/91",
+      "organization_name": "Index Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:77",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/77",
+      "organization_name": "Blueberry Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:73",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/73",
+      "organization_name": "Unitas Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:53",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/53",
+      "organization_name": "Bond Protocol Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:52",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/52",
+      "organization_name": "Notional Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:50",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/50",
+      "organization_name": "OlympusDAO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:48",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/48",
+      "organization_name": "Hats",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:45",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/45",
+      "organization_name": "Taurus",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:31",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/31",
+      "organization_name": "Notional Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 36250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1212",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1212",
+      "organization_name": "Monolith Stablecoin Factory",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:19",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/19",
+      "organization_name": "Sense",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35466,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:791",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/791",
+      "organization_name": "Yieldoor",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:561",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/561",
+      "organization_name": "predict.fun lending market",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:26",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/26",
+      "organization_name": "Opyn Crab Netting",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:15",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/15",
+      "organization_name": "Float Capital",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:14",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/14",
+      "organization_name": "NFTPort",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:10",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/10",
+      "organization_name": "Mover",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:5",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/5",
+      "organization_name": "Sherlock",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 35000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:585",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/585",
+      "organization_name": "Index x Morpho Leverage Integration",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 34000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:88",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/88",
+      "organization_name": "RealWagmi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 33200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:675",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/675",
+      "organization_name": "Ethos Network Financial Contracts",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 32100,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:598",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/598",
+      "organization_name": "Mento x Good$ Integration",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 31500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:58",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/58",
+      "organization_name": "Sense Update #1",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 31030,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:991",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/991",
+      "organization_name": "DODO Cross-Chain DEX",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 31000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:24",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/24",
+      "organization_name": "Buffer Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30520,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:303",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/303",
+      "organization_name": "Beefy Cowcentrated Liquidity Manager",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:799",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/799",
+      "organization_name": "Aegis.im YUSD",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30400,
+        "currency": "OP",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1044",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1044",
+      "organization_name": "DeBank",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:609",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/609",
+      "organization_name": "Tally ARB Staker",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:369",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/369",
+      "organization_name": "Napier Finance - LST/LRT Integrations",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 30000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:506",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/506",
+      "organization_name": "Cork Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 29750,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:688",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/688",
+      "organization_name": "Nouns DAO - Auction Streams",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 29000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:295",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/295",
+      "organization_name": "Teller Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 28500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:498",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/498",
+      "organization_name": "Rova",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:108",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/108",
+      "organization_name": "Symmetrical Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1195",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1195",
+      "organization_name": "Saffron Fixed Income Vaults",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:427",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/427",
+      "organization_name": "SYMMIO v0.83 Update Contest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:281",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/281",
+      "organization_name": "WagmiLeverage V2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:135",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/135",
+      "organization_name": "DODO GSP",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:908",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/908",
+      "organization_name": "LEND",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:163",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/163",
+      "organization_name": "LooksRare YOLO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:136",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/136",
+      "organization_name": "JOJO Exchange Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 27000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:112",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/112",
+      "organization_name": "Perennial V2 Fix Review",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 26600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:472",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/472",
+      "organization_name": "Teller Lender Groups Update Audit ",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 26500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1171",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1171",
+      "organization_name": "Super DCA Liquidity Network",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 26400,
+        "currency": "OP",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:56",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/56",
+      "organization_name": "Kairos Loan",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 26250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:577",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/577",
+      "organization_name": "SYMMIO v0.8.4 Update Contest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 26000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:968",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/968",
+      "organization_name": "Superfluid Locker System",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 25000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:552",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/552",
+      "organization_name": "AXION",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 24500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:326",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/326",
+      "organization_name": "TITLES Publishing Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 24500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:233",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/233",
+      "organization_name": "Jala Swap",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 24250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:104",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/104",
+      "organization_name": "Blueberry Update #3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:99",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/99",
+      "organization_name": "Bond Options",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:69",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/69",
+      "organization_name": "Blueberry Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23600,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1197",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1197",
+      "organization_name": "Index Fun Order Book",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:445",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/445",
+      "organization_name": "Union Finance Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:178",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/178",
+      "organization_name": "Goat Trading",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 23000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:285",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/285",
+      "organization_name": "Tokensoft Distributor Contracts Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 22500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:18",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/18",
+      "organization_name": "FrankenDAO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 22400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:244",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/244",
+      "organization_name": "Amphor",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 22000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:122",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/122",
+      "organization_name": "LooksRare",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 22000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:100",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/100",
+      "organization_name": "Tokensoft",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 21400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:65",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/65",
+      "organization_name": "Splits",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 21400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:509",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/509",
+      "organization_name": "Saffron Lido Vaults",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 21000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:376",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/376",
+      "organization_name": "Sophon Farming Contracts",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:97",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/97",
+      "organization_name": "GFX Labs",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:61",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/61",
+      "organization_name": "Gitcoin",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20400,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:614",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/614",
+      "organization_name": "HatsSignerGate v2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:920",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/920",
+      "organization_name": "Pareto USP, a credit-backed synthetic dollar",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:234",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/234",
+      "organization_name": "Real Wagmi #2 Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:155",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/155",
+      "organization_name": "Olympus On-Chain Governance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 20000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:127",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/127",
+      "organization_name": "Covalent",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 19500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1051",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1051",
+      "organization_name": "Allbridge Core Yield",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 19000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1222",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1222",
+      "organization_name": "OpenCover Insured Vaults",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:82",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/82",
+      "organization_name": "USSD - Autonomous Secure Dollar",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:151",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/151",
+      "organization_name": "Truflation",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:130",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/130",
+      "organization_name": "DODO V3 update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 18000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1203",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1203",
+      "organization_name": "stNXM by EaseDeFi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1076",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1076",
+      "organization_name": "Oku Trade Order Types",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:838",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/838",
+      "organization_name": "Symmio, Staking and Vesting",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:735",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/735",
+      "organization_name": "Ethos Reputation Market Fix Review Contest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:330",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/330",
+      "organization_name": "Gamma - Locked Staking Contract",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:278",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/278",
+      "organization_name": "vVv Vesting & Staking",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:248",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/248",
+      "organization_name": "xKeeper",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:196",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/196",
+      "organization_name": "Telcoin Platform Audit Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:159",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/159",
+      "organization_name": "Rio Vesting Escrow",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:156",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/156",
+      "organization_name": "Telcoin Platform Audit",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:146",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/146",
+      "organization_name": "Avail",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:107",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/107",
+      "organization_name": "Cooler Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 17000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:643",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/643",
+      "organization_name": "Telcoin Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:273",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/273",
+      "organization_name": "Alchemix - Optimism Bridging and Reward Routing",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:648",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/648",
+      "organization_name": "Superfluid Locker System",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:494",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/494",
+      "organization_name": "Rumpel Point Tokenization Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:191",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/191",
+      "organization_name": "RadicalxChange",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:98",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/98",
+      "organization_name": "Dinari",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:71",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/71",
+      "organization_name": "Footium",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 16000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:102",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/102",
+      "organization_name": "Beam",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 15000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:80",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/80",
+      "organization_name": "Eco Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 15000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:78",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/78",
+      "organization_name": "DODO Margin Trading",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 15000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:641",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/641",
+      "organization_name": "Oku's New Order Types Contract Contest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14600,
+        "currency": "OP",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:977",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/977",
+      "organization_name": "Yearn yBOLD",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:952",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/952",
+      "organization_name": "LayerEdge - Staking",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:852",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/852",
+      "organization_name": "PinLink: RWA-Tokenized DePIN Marketplace",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:755",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/755",
+      "organization_name": "Crestal Network",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:727",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/727",
+      "organization_name": "MachFi",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:321",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/321",
+      "organization_name": "Arcadia - Aerodrome integrations",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:60",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/60",
+      "organization_name": "Olympus Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:51",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/51",
+      "organization_name": "Surge",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:49",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/49",
+      "organization_name": "Telcoin Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:44",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/44",
+      "organization_name": "Union Finance Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:42",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/42",
+      "organization_name": "Fair Funding by Alchemix & Unstoppable",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:36",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/36",
+      "organization_name": "Cooler",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:35",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/35",
+      "organization_name": "Illuminate Round 2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:37",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/37",
+      "organization_name": "Sentiment Update #3",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:28",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/28",
+      "organization_name": "Sentiment Update #2",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:27",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/27",
+      "organization_name": "NounsDAO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:25",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/25",
+      "organization_name": "Telcoin",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:23",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/23",
+      "organization_name": "Bull v Bear",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:21",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/21",
+      "organization_name": "DODO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:17",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/17",
+      "organization_name": "Sentiment Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:9",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/9",
+      "organization_name": "Merit Circle",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:7",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/7",
+      "organization_name": "Mycelium",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 14000,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:1263",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/1263",
+      "organization_name": "Clear Macro by Superfluid",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:516",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/516",
+      "organization_name": "Winnables Raffles",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:493",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/493",
+      "organization_name": "Kwenta Staking Rewards Upgrade",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:396",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/396",
+      "organization_name": "Exactly Protocol Update - Staking Contract",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:362",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/362",
+      "organization_name": "Kwenta x Perennial Integration Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:332",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/332",
+      "organization_name": "Midas",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:287",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/287",
+      "organization_name": "Flat Money Fix Review Contest",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:243",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/243",
+      "organization_name": "Zap Protocol",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:184",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/184",
+      "organization_name": "Rubicon Finance",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:144",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/144",
+      "organization_name": "SYMM IO",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:131",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/131",
+      "organization_name": "Footium Update",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13500,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:647",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/647",
+      "organization_name": "vVv Launchpad - Investments & Token distribution",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 13250,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:496",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/496",
+      "organization_name": "Gamma Brevis Rewarder",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 12500,
+        "currency": "OP",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    },
+    {
+      "id": "sherlock:3",
+      "platform": "sherlock",
+      "program_url": "https://audits.sherlock.xyz/contests/3",
+      "organization_name": "Harpie",
+      "contact_urls": [],
+      "category": "bug_bounty",
+      "rewards": {
+        "min": null,
+        "max": 11200,
+        "currency": "USDC",
+        "offers_bounties": true
+      },
+      "last_updated": "2026-06-28T04:28:31.085Z",
+      "discovered_at": "2026-06-28T04:28:31.085Z"
+    }
+  ]
+}
