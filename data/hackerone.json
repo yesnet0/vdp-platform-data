@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T02:32:43.304Z",
+  "scraped_at": "2026-08-24T02:32:47.754Z",
   "platform": "hackerone",
   "total_programs": 447,
   "programs": [
@@ -16,8 +16,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:assa_abloy_americas",
@@ -32,8 +32,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:prism_vdp",
@@ -48,8 +48,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wolt",
@@ -64,8 +64,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:agoda-public",
@@ -80,8 +80,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:anthropic-cyber-jailbreak",
@@ -96,8 +96,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:epicgames-vdp",
@@ -112,8 +112,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:omnicell",
@@ -128,8 +128,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:phonepe_vdp",
@@ -144,8 +144,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mcgrawhill",
@@ -160,8 +160,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:clear_street_vdp",
@@ -176,8 +176,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:discover-vdp",
@@ -192,8 +192,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gogo_vdp",
@@ -208,8 +208,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coupang_tw",
@@ -224,8 +224,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:getyourguide_vdp",
@@ -240,8 +240,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tbs-sct",
@@ -256,8 +256,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bose_vdp",
@@ -272,8 +272,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mod_supply_chain_vdp",
@@ -288,8 +288,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:anduril_industries",
@@ -304,8 +304,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cognition",
@@ -320,8 +320,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tines_automation_vdp",
@@ -336,8 +336,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:taxwell-vdp",
@@ -352,8 +352,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:luminor",
@@ -368,8 +368,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:twilio",
@@ -384,8 +384,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mufg-vdp",
@@ -400,8 +400,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bankunited",
@@ -416,8 +416,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mueller_water_products_vdp",
@@ -432,8 +432,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hexagon_vdp",
@@ -448,8 +448,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:doordash",
@@ -464,8 +464,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:henkel_vdp",
@@ -480,8 +480,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vueling_vdp",
@@ -496,8 +496,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:robinhood_markets",
@@ -512,8 +512,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:robinhood",
@@ -528,8 +528,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:docusign",
@@ -544,8 +544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:british_airways_vdp",
@@ -560,8 +560,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vercel-open-source",
@@ -576,8 +576,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:regions_financial",
@@ -592,8 +592,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:1win_com",
@@ -608,8 +608,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:citi_group",
@@ -624,8 +624,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tucows_vdp",
@@ -640,8 +640,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:banco_plata",
@@ -656,8 +656,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:netscaler_public_program",
@@ -672,8 +672,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hack_the_box",
@@ -688,8 +688,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:meesho_bbp",
@@ -704,8 +704,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kaseya",
@@ -720,8 +720,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lovable-vdp",
@@ -736,8 +736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:braze_inc",
@@ -752,8 +752,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kong",
@@ -768,8 +768,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hyland_software",
@@ -784,8 +784,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:worldpay",
@@ -800,8 +800,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hertz",
@@ -816,8 +816,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:qinetiq",
@@ -832,8 +832,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kraken-tech",
@@ -848,8 +848,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vf-corporation-vdp",
@@ -864,8 +864,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:experian",
@@ -880,8 +880,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ferrero",
@@ -896,8 +896,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:baird_vdp",
@@ -912,8 +912,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:dust",
@@ -928,8 +928,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:msci",
@@ -944,8 +944,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hotmartvdp",
@@ -960,8 +960,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:whoop_bug_bounty",
@@ -976,8 +976,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hex",
@@ -992,8 +992,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hubspot",
@@ -1008,8 +1008,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:alibaba_vdp",
@@ -1024,8 +1024,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:oppo_bbp",
@@ -1040,8 +1040,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:1password",
@@ -1056,8 +1056,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bill_vdp",
@@ -1072,8 +1072,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bcny",
@@ -1088,8 +1088,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:penn_entertainment",
@@ -1104,8 +1104,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:verily_life_sciences",
@@ -1120,8 +1120,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:neon_bbp",
@@ -1136,8 +1136,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bumba_bbp",
@@ -1152,8 +1152,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:starbucks_japan",
@@ -1168,8 +1168,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:starbucks_china",
@@ -1184,8 +1184,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:adevinta_vdp",
@@ -1200,8 +1200,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:recreation_gov_vdp",
@@ -1216,8 +1216,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:syfe_bbp",
@@ -1232,8 +1232,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pepsico_vdp",
@@ -1248,8 +1248,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:aws_vdp",
@@ -1264,8 +1264,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nba-public",
@@ -1280,8 +1280,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hpe_vdp",
@@ -1296,8 +1296,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:itau_unibanco",
@@ -1312,8 +1312,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:supabase",
@@ -1328,8 +1328,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:finnair_vdp",
@@ -1344,8 +1344,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:liverpool_victoria",
@@ -1360,8 +1360,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:6sense-vdp",
@@ -1376,8 +1376,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mintel",
@@ -1392,8 +1392,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:circle-bbp",
@@ -1408,8 +1408,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lpl_financial-vdp",
@@ -1424,8 +1424,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:peloton",
@@ -1440,8 +1440,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:varonis",
@@ -1456,8 +1456,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ion",
@@ -1472,8 +1472,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:klarna",
@@ -1488,8 +1488,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:unico_idtech",
@@ -1504,8 +1504,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wallet_on_telegram",
@@ -1520,8 +1520,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tomtom",
@@ -1536,8 +1536,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fanduel-vdp",
@@ -1552,8 +1552,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:singlestore",
@@ -1568,8 +1568,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lowes",
@@ -1584,8 +1584,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:rei_vdp",
@@ -1600,8 +1600,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:chia_network",
@@ -1616,8 +1616,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:corebridge_financial",
@@ -1632,8 +1632,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:3cx",
@@ -1648,8 +1648,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:interco_vdp",
@@ -1664,8 +1664,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:privy-bbp",
@@ -1680,8 +1680,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:dailypay_vdp",
@@ -1696,8 +1696,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:netflix",
@@ -1712,8 +1712,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:transunion",
@@ -1728,8 +1728,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wellhive",
@@ -1744,8 +1744,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:23andme_bbp",
@@ -1760,8 +1760,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:aeromexico_vdp",
@@ -1776,8 +1776,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:audible",
@@ -1792,8 +1792,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:temu",
@@ -1808,8 +1808,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vectra_ai_vdp",
@@ -1824,8 +1824,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bybit_fintech",
@@ -1840,8 +1840,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:trip_com",
@@ -1856,8 +1856,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bykea",
@@ -1872,8 +1872,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:anthropic",
@@ -1888,8 +1888,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:inditex",
@@ -1904,8 +1904,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:aon",
@@ -1920,8 +1920,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:oaknorth_bank",
@@ -1936,8 +1936,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:aven_response",
@@ -1952,8 +1952,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:visa",
@@ -1968,8 +1968,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:brightspeed",
@@ -1984,8 +1984,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:toolsforhumanity",
@@ -2000,8 +2000,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:alshaya",
@@ -2016,8 +2016,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ring",
@@ -2032,8 +2032,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:truist_financial",
@@ -2048,8 +2048,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:six-group",
@@ -2064,8 +2064,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:eufy_security",
@@ -2080,8 +2080,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:eero",
@@ -2096,8 +2096,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fertitta_entertainment",
@@ -2112,8 +2112,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mozilla",
@@ -2128,8 +2128,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:stripchat",
@@ -2144,8 +2144,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:redox_bbp",
@@ -2160,8 +2160,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:okg",
@@ -2176,8 +2176,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wisdomtree",
@@ -2192,8 +2192,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pornbox",
@@ -2208,8 +2208,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tron_dao",
@@ -2224,8 +2224,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:superbet",
@@ -2240,8 +2240,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:abn_amro_vdp",
@@ -2256,8 +2256,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:magic-eden",
@@ -2272,8 +2272,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:prudential-financial",
@@ -2288,8 +2288,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:boozt",
@@ -2304,8 +2304,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:us-department-of-state",
@@ -2320,8 +2320,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:sheer_bbp",
@@ -2336,8 +2336,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vodafone_oman",
@@ -2352,8 +2352,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:frontegg",
@@ -2368,8 +2368,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kkr_vdp",
@@ -2384,8 +2384,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:intuit_rdp",
@@ -2400,8 +2400,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fifth_third_bank_vdp",
@@ -2416,8 +2416,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:indrive",
@@ -2432,8 +2432,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:amazonvrp-devices",
@@ -2448,8 +2448,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:rei_bbp",
@@ -2464,8 +2464,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mergify",
@@ -2480,8 +2480,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:arkose_labs",
@@ -2496,8 +2496,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:productboard",
@@ -2512,8 +2512,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:abb",
@@ -2528,8 +2528,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:avalara",
@@ -2544,8 +2544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:alsco",
@@ -2560,8 +2560,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:abercrombie_fitch_bbp",
@@ -2576,8 +2576,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:abercrombie_fitch",
@@ -2592,8 +2592,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:city_of_los_angeles_vdp",
@@ -2608,8 +2608,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:resmed",
@@ -2624,8 +2624,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:yuga_labs",
@@ -2640,8 +2640,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:modern_treasury",
@@ -2656,8 +2656,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:notion",
@@ -2672,8 +2672,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:daimler_truck",
@@ -2688,8 +2688,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:canada_goose_inc",
@@ -2704,8 +2704,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:monarch_money",
@@ -2720,8 +2720,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:clarivate",
@@ -2736,8 +2736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:render",
@@ -2752,8 +2752,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:metamask",
@@ -2768,8 +2768,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:floqast",
@@ -2784,8 +2784,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:callsign",
@@ -2800,8 +2800,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:palantir_public",
@@ -2816,8 +2816,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ro",
@@ -2832,8 +2832,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:unitigroup",
@@ -2848,8 +2848,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mongodb",
@@ -2864,8 +2864,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ripio",
@@ -2880,8 +2880,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:deribit",
@@ -2896,8 +2896,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fidelity",
@@ -2912,8 +2912,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:sorare",
@@ -2928,8 +2928,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fresenius",
@@ -2944,8 +2944,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:caterpillar",
@@ -2960,8 +2960,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:disney",
@@ -2976,8 +2976,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:alohi",
@@ -2992,8 +2992,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hilton",
@@ -3008,8 +3008,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gymshark",
@@ -3024,8 +3024,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:moov",
@@ -3040,8 +3040,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vodafone",
@@ -3056,8 +3056,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:compass-bbp",
@@ -3072,8 +3072,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wellsfargo-bbp",
@@ -3088,8 +3088,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:allegion",
@@ -3104,8 +3104,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pagerduty",
@@ -3120,8 +3120,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:oanda",
@@ -3136,8 +3136,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:payoneer",
@@ -3152,8 +3152,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tesco",
@@ -3168,8 +3168,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:planet-labs",
@@ -3184,8 +3184,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:moonpay",
@@ -3200,8 +3200,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:koho",
@@ -3216,8 +3216,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:veeam",
@@ -3232,8 +3232,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:redis-vdp",
@@ -3248,8 +3248,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:godaddy-vdp",
@@ -3264,8 +3264,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mondelez",
@@ -3280,8 +3280,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:inspectorio",
@@ -3296,8 +3296,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:capital-one-bounty",
@@ -3312,8 +3312,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:apnic",
@@ -3328,8 +3328,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:blend-labs",
@@ -3344,8 +3344,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:razorpay",
@@ -3360,8 +3360,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hy-vee",
@@ -3376,8 +3376,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:zooplus",
@@ -3392,8 +3392,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tenable",
@@ -3408,8 +3408,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:newegg",
@@ -3424,8 +3424,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:octopus-energy",
@@ -3440,8 +3440,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fastly-vdp",
@@ -3456,8 +3456,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:servicenow-disclosure",
@@ -3472,8 +3472,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:zurich-insurance",
@@ -3488,8 +3488,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:krisp",
@@ -3504,8 +3504,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:whatnot",
@@ -3520,8 +3520,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:latamairlines",
@@ -3536,8 +3536,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:khealth",
@@ -3552,8 +3552,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:smtp2go",
@@ -3568,8 +3568,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:jetblue",
@@ -3584,8 +3584,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nominet",
@@ -3600,8 +3600,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:zebra_vdp",
@@ -3616,8 +3616,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fiserv",
@@ -3632,8 +3632,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ups",
@@ -3648,8 +3648,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:playtika",
@@ -3664,8 +3664,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:beiersdorf",
@@ -3680,8 +3680,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:john-deere",
@@ -3696,8 +3696,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:trendyol",
@@ -3712,8 +3712,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mtb",
@@ -3728,8 +3728,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:dib-vdp",
@@ -3744,8 +3744,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:global-payments",
@@ -3760,8 +3760,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:blackrock",
@@ -3776,8 +3776,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:costco",
@@ -3792,8 +3792,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:on",
@@ -3808,8 +3808,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hypr-corp",
@@ -3824,8 +3824,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mars",
@@ -3840,8 +3840,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:who-covid-19-mobile-app",
@@ -3856,8 +3856,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:stripe",
@@ -3872,8 +3872,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pfizer",
@@ -3888,8 +3888,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:emoney-advisor",
@@ -3904,8 +3904,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:paystack-vdp",
@@ -3920,8 +3920,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:freshworks",
@@ -3936,8 +3936,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:judgeme",
@@ -3952,8 +3952,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:r3",
@@ -3968,8 +3968,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cbre",
@@ -3984,8 +3984,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:doppler",
@@ -4000,8 +4000,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:grindr",
@@ -4016,8 +4016,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:csg-public",
@@ -4032,8 +4032,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:xvideos",
@@ -4048,8 +4048,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:anywhererealestate",
@@ -4064,8 +4064,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ohiosecretaryofstate",
@@ -4080,8 +4080,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:openmage",
@@ -4096,8 +4096,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:8x8-bounty",
@@ -4112,8 +4112,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tiktok",
@@ -4128,8 +4128,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:estee-lauder",
@@ -4144,8 +4144,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:aig",
@@ -4160,8 +4160,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:finra",
@@ -4176,8 +4176,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:polygon-technology",
@@ -4192,8 +4192,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cognizant",
@@ -4208,8 +4208,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vendasta",
@@ -4224,8 +4224,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:insightly",
@@ -4240,8 +4240,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:figma",
@@ -4256,8 +4256,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mendix",
@@ -4272,8 +4272,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:amazonvrp",
@@ -4288,8 +4288,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cs_money",
@@ -4304,8 +4304,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cedars-sinai",
@@ -4320,8 +4320,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hostinger",
@@ -4336,8 +4336,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:shutterfly_vdp",
@@ -4352,8 +4352,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:usps",
@@ -4368,8 +4368,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:shein",
@@ -4384,8 +4384,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:navient_solutions",
@@ -4400,8 +4400,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:stagingdoteverydotorg",
@@ -4416,8 +4416,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:td-bank",
@@ -4432,8 +4432,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:flexport_vdp",
@@ -4448,8 +4448,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:thnks",
@@ -4464,8 +4464,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:myndr",
@@ -4480,8 +4480,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:faraday_inc",
@@ -4496,8 +4496,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:playstation",
@@ -4512,8 +4512,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:truecaller",
@@ -4528,8 +4528,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:insulet_corporation",
@@ -4544,8 +4544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:simple_poll",
@@ -4560,8 +4560,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pubg",
@@ -4576,8 +4576,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:picsart",
@@ -4592,8 +4592,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:evernote",
@@ -4608,8 +4608,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:box_private",
@@ -4624,8 +4624,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hcl_software",
@@ -4640,8 +4640,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bestbuy",
@@ -4656,8 +4656,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:stripo",
@@ -4672,8 +4672,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lemlist",
@@ -4688,8 +4688,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:exodus",
@@ -4704,8 +4704,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:keybank",
@@ -4720,8 +4720,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gmelius",
@@ -4736,8 +4736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:thomsonreuters-public",
@@ -4752,8 +4752,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:streak_com",
@@ -4768,8 +4768,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:palo_alto_software",
@@ -4784,8 +4784,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mtn_group",
@@ -4800,8 +4800,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kubernetes",
@@ -4816,8 +4816,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coinspot",
@@ -4832,8 +4832,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gocardless_bbp",
@@ -4848,8 +4848,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:equifax",
@@ -4864,8 +4864,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:forescout_technologies",
@@ -4880,8 +4880,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:att",
@@ -4896,8 +4896,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lark_technologies",
@@ -4912,8 +4912,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:top_echelon_software",
@@ -4928,8 +4928,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:solidus",
@@ -4944,8 +4944,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:worklytics",
@@ -4960,8 +4960,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:defectdojo",
@@ -4976,8 +4976,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:trellix",
@@ -4992,8 +4992,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:curl",
@@ -5008,8 +5008,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:dynatrace",
@@ -5024,8 +5024,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ridewithvia",
@@ -5040,8 +5040,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:xiaomi",
@@ -5056,8 +5056,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:starling_bank",
@@ -5072,8 +5072,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:central-security-project",
@@ -5088,8 +5088,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:capital-one",
@@ -5104,8 +5104,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:reddit",
@@ -5120,8 +5120,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:msd",
@@ -5136,8 +5136,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:early_warning",
@@ -5152,8 +5152,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:instacart",
@@ -5168,8 +5168,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ford",
@@ -5184,8 +5184,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:expediagroup_bbp",
@@ -5200,8 +5200,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fronthq",
@@ -5216,8 +5216,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:netlify",
@@ -5232,8 +5232,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fanduel",
@@ -5248,8 +5248,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:creditkarma",
@@ -5264,8 +5264,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:mercadolibre",
@@ -5280,8 +5280,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:urbancompany",
@@ -5296,8 +5296,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:remitly",
@@ -5312,8 +5312,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:expediagroup",
@@ -5328,8 +5328,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nutanix",
@@ -5344,8 +5344,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:s-pankki",
@@ -5360,8 +5360,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:flickr",
@@ -5376,8 +5376,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:matomo",
@@ -5392,8 +5392,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nisc",
@@ -5408,8 +5408,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:logitech",
@@ -5424,8 +5424,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:marriott",
@@ -5440,8 +5440,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:hyatt",
@@ -5456,8 +5456,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:flipkart",
@@ -5472,8 +5472,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:acronis",
@@ -5488,8 +5488,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:chainlink",
@@ -5504,8 +5504,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:paypal",
@@ -5520,8 +5520,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:chaturbate",
@@ -5536,8 +5536,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pixiv",
@@ -5552,8 +5552,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ibm",
@@ -5568,8 +5568,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:arkadiyt-projects",
@@ -5584,8 +5584,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:duckduckgo",
@@ -5600,8 +5600,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:affirm",
@@ -5616,8 +5616,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:crypto",
@@ -5632,8 +5632,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:goodrx",
@@ -5648,8 +5648,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nodejs",
@@ -5664,8 +5664,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:pingidentity",
@@ -5680,8 +5680,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:flutteruki",
@@ -5696,8 +5696,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:toyota",
@@ -5712,8 +5712,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:crowdstrike",
@@ -5728,8 +5728,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:databricks",
@@ -5744,8 +5744,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coalition",
@@ -5760,8 +5760,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:elastic",
@@ -5776,8 +5776,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:goldmansachs",
@@ -5792,8 +5792,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:yoti",
@@ -5808,8 +5808,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:valve",
@@ -5824,8 +5824,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:epicgames",
@@ -5840,8 +5840,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:sony",
@@ -5856,8 +5856,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:malwarebytes",
@@ -5872,8 +5872,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:superhuman",
@@ -5888,8 +5888,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:autodesk",
@@ -5904,8 +5904,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:monero",
@@ -5920,8 +5920,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bitwarden",
@@ -5936,8 +5936,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:oportun_vdp",
@@ -5952,8 +5952,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wakatime",
@@ -5968,8 +5968,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bumble",
@@ -5984,8 +5984,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:spotify",
@@ -6000,8 +6000,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:roblox",
@@ -6016,8 +6016,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:stellar",
@@ -6032,8 +6032,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:dyson",
@@ -6048,8 +6048,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:disclosure-assistance",
@@ -6064,8 +6064,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:lyst",
@@ -6080,8 +6080,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kiwicom",
@@ -6096,8 +6096,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:discourse",
@@ -6112,8 +6112,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:enjin",
@@ -6128,8 +6128,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nintendo",
@@ -6144,8 +6144,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:deptofdefense",
@@ -6160,8 +6160,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:plaid",
@@ -6176,8 +6176,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:semrush",
@@ -6192,8 +6192,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:quora",
@@ -6208,8 +6208,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:portswigger",
@@ -6224,8 +6224,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:rubygems",
@@ -6240,8 +6240,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:files",
@@ -6256,8 +6256,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:owox",
@@ -6272,8 +6272,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:exness",
@@ -6288,8 +6288,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wordpress",
@@ -6304,8 +6304,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:nextcloud",
@@ -6320,8 +6320,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:publitas",
@@ -6336,8 +6336,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:starbucks",
@@ -6352,8 +6352,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ruby",
@@ -6368,8 +6368,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:rockstargames",
@@ -6384,8 +6384,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:github",
@@ -6400,8 +6400,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:wealthsimple",
@@ -6416,8 +6416,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:homebargains",
@@ -6432,8 +6432,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:eternal",
@@ -6448,8 +6448,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gm",
@@ -6464,8 +6464,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:torproject",
@@ -6480,8 +6480,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:deriv",
@@ -6496,8 +6496,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:tinder",
@@ -6512,8 +6512,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:fetlife",
@@ -6528,8 +6528,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:versioncake",
@@ -6544,8 +6544,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:grab",
@@ -6560,8 +6560,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cert",
@@ -6576,8 +6576,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coinmate",
@@ -6592,8 +6592,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:clear",
@@ -6608,8 +6608,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:revive_adserver",
@@ -6624,8 +6624,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:moneybird",
@@ -6640,8 +6640,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coursera",
@@ -6656,8 +6656,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:udemy",
@@ -6672,8 +6672,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:kayak",
@@ -6688,8 +6688,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:basecamp",
@@ -6704,8 +6704,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:shopify",
@@ -6720,8 +6720,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ips",
@@ -6736,8 +6736,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:airbnb",
@@ -6752,8 +6752,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:bookingcom",
@@ -6768,8 +6768,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:airtable",
@@ -6784,8 +6784,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:adobe",
@@ -6800,8 +6800,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:formassembly",
@@ -6816,8 +6816,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:ui",
@@ -6832,8 +6832,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:snapchat",
@@ -6848,8 +6848,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:priceline",
@@ -6864,8 +6864,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:uber",
@@ -6880,8 +6880,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:yelp",
@@ -6896,8 +6896,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:informatica",
@@ -6912,8 +6912,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:vimeo",
@@ -6928,8 +6928,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:linkedin",
@@ -6944,8 +6944,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:greenhouse",
@@ -6960,8 +6960,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:gitlab",
@@ -6976,8 +6976,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:x",
@@ -6992,8 +6992,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:cloudflare",
@@ -7008,8 +7008,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:automattic",
@@ -7024,8 +7024,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:khanacademy",
@@ -7040,8 +7040,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:coinbase",
@@ -7056,8 +7056,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:concretecms",
@@ -7072,8 +7072,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:slack",
@@ -7088,8 +7088,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:phabricator",
@@ -7104,8 +7104,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:rails",
@@ -7120,8 +7120,8 @@
         "currency": null,
         "offers_bounties": false
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:django",
@@ -7136,8 +7136,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     },
     {
       "id": "hackerone:security",
@@ -7152,8 +7152,8 @@
         "currency": null,
         "offers_bounties": true
       },
-      "last_updated": "2026-08-23T02:32:22.974Z",
-      "discovered_at": "2026-08-23T02:32:22.974Z"
+      "last_updated": "2026-08-24T02:32:23.468Z",
+      "discovered_at": "2026-08-24T02:32:23.468Z"
     }
   ]
 }
